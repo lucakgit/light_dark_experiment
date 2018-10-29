@@ -1,0 +1,1215 @@
+﻿Log file open, 10/28/18 23:45:07
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: DialogueSystem
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(104422147) SRandInit(104422148).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.309356
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.983s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am PlatyPC (192.168.1.32:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: E:/Jogos/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.10.28-23.45.09:152][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.28-23.45.09:152][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.10.28-23.45.09:179][  0]LogInit: Computer: PLATYPC
+[2018.10.28-23.45.09:179][  0]LogInit: User: joaod
+[2018.10.28-23.45.09:179][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.10.28-23.45.09:179][  0]LogInit: High frequency timer resolution =3.919378 MHz
+[2018.10.28-23.45.09:179][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.10.28-23.45.09:179][  0]LogMemory: Platform Memory Stats for Windows
+[2018.10.28-23.45.09:179][  0]LogMemory: Process Physical Memory: 274.87 MB used, 274.87 MB peak
+[2018.10.28-23.45.09:179][  0]LogMemory: Process Virtual Memory: 264.88 MB used, 264.88 MB peak
+[2018.10.28-23.45.09:179][  0]LogMemory: Physical Memory: 5312.46 MB used,  2779.84 MB free, 8092.31 MB total
+[2018.10.28-23.45.09:179][  0]LogMemory: Virtual Memory: 4795.26 MB used,  2779.84 MB free, 134217728.00 MB total
+[2018.10.28-23.45.09:202][  0]LogInit: Using OS detected language (pt-PT).
+[2018.10.28-23.45.09:202][  0]LogInit: Using OS detected locale (pt-PT).
+[2018.10.28-23.45.09:206][  0]LogTextLocalizationManager: No localization for 'pt-PT' exists, so 'en' will be used for the language.
+[2018.10.28-23.45.09:831][  0]LogStreaming: Display: Took  0.629s to EndInitTextLocalization.
+[2018.10.28-23.45.09:831][  0]LogInit: Setting process to per monitor DPI aware
+[2018.10.28-23.45.09:867][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.10.28-23.45.09:867][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.10.28-23.45.10:117][  0]LogD3D11RHI: D3D11 adapters:
+[2018.10.28-23.45.10:213][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GT 740' (Feature Level 11_0)
+[2018.10.28-23.45.10:213][  0]LogD3D11RHI:       2007/0/4046 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.10.28-23.45.10:215][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.10.28-23.45.10:215][  0]LogD3D11RHI:       0/0/4046 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.10.28-23.45.10:215][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.10.28-23.45.10:226][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.10.28-23.45.10:226][  0]LogD3D11RHI:     GPU DeviceId: 0xfc8 (for the marketing name, search the web for "GPU Device Id")
+[2018.10.28-23.45.10:226][  0]LogWindows: EnumDisplayDevices:
+[2018.10.28-23.45.10:226][  0]LogWindows:    0. 'NVIDIA GeForce GT 740' (P:1 D:1)
+[2018.10.28-23.45.10:226][  0]LogWindows:    1. 'NVIDIA GeForce GT 740' (P:0 D:0)
+[2018.10.28-23.45.10:226][  0]LogWindows:    2. 'NVIDIA GeForce GT 740' (P:0 D:0)
+[2018.10.28-23.45.10:226][  0]LogWindows:    3. 'NVIDIA GeForce GT 740' (P:0 D:0)
+[2018.10.28-23.45.10:227][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.10.28-23.45.10:227][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GT 740
+[2018.10.28-23.45.10:227][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.10.28-23.45.10:227][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.10.28-23.45.10:227][  0]LogRHI: Texture pool is 1404 MB (70% of 2007 MB)
+[2018.10.28-23.45.10:291][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.10.28-23.45.10:291][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.10.28-23.45.10:291][  0]LogD3D11RHI: Async texture creation enabled
+[2018.10.28-23.45.10:322][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 4)
+[2018.10.28-23.45.10:372][  0]LogShaderCompilers: Guid format shader working directory is -18 characters bigger than the processId version (../../../../../../Work/light_dark_experiment/Dialogue_basedgame/Intermediate/Shaders/WorkingDirectory/10604/).
+[2018.10.28-23.45.10:373][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/joaod/AppData/Local/Temp/UnrealShaderWorkingDir/BBF813D141BA0825039D0CBCB5473D27/'.
+[2018.10.28-23.45.10:903][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.10.28-23.45.10:924][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.10.28-23.45.10:948][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.10.28-23.45.10:968][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.10.28-23.45.11:004][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.10.28-23.45.11:023][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.10.28-23.45.11:042][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.10.28-23.45.11:063][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.10.28-23.45.11:072][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.10.28-23.45.11:093][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.10.28-23.45.11:111][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.10.28-23.45.11:132][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.10.28-23.45.11:152][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.10.28-23.45.11:173][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.10.28-23.45.11:192][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.10.28-23.45.11:231][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.10.28-23.45.11:231][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.10.28-23.45.11:270][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.28-23.45.11:271][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.10.28-23.45.11:337][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.28-23.45.11:358][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.28-23.45.11:379][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.10.28-23.45.11:398][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.10.28-23.45.11:421][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.10.28-23.45.11:455][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.10.28-23.45.11:455][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.10.28-23.45.11:627][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.10.28-23.45.11:627][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.10.28-23.45.11:627][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.10.28-23.45.19:027][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.10.28-23.45.19:223][  0]LogDerivedDataCache: Loaded boot cache 0.20s 74MB C:/Users/joaod/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.10.28-23.45.19:223][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/joaod/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.10.28-23.45.19:223][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Work/light_dark_experiment/Dialogue_basedgame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.10.28-23.45.19:224][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.10.28-23.45.19:224][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Work/light_dark_experiment/Dialogue_basedgame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.10.28-23.45.19:224][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.10.28-23.45.19:247][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.10.28-23.45.19:261][  0]LogDerivedDataCache: Using Local data cache path C:/Users/joaod/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.10.28-23.45.19:261][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.10.28-23.45.19:261][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.10.28-23.45.19:282][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.10.28-23.45.19:282][  0]LogSlate: Using Freetype 2.6.0
+[2018.10.28-23.45.19:321][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.10.28-23.45.19:321][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.10.28-23.45.21:944][  0]LogAssetRegistry: FAssetRegistry took 0.0285 seconds to start up
+[2018.10.28-23.45.22:469][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.28-23.45.22:774][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.10.28-23.45.22:776][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.10.28-23.45.22:776][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.10.28-23.45.22:776][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.10.28-23.45.22:776][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.10.28-23.45.22:776][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.10.28-23.45.22:812][  0]LogNetVersion: DialogueSystem , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3152236143)
+[2018.10.28-23.45.23:401][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 1 prioritized culture(s) in 0.039361 seconds
+[2018.10.28-23.45.23:408][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.10.28-23.45.23:408][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2018.10.28-23.45.23:408][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.10.28-23.46.03:019][  0]LogAssetRegistry: Error: Failed to open file for write ../../../../../../Work/light_dark_experiment/Dialogue_basedgame/Intermediate/CachedAssetRegistry.bin
+[2018.10.28-23.46.04:801][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.10.28-23.46.04:918][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.10.28-23.46.06:357][  0]SourceControl: Source control is disabled
+[2018.10.28-23.46.06:358][  0]SourceControl: Source control is disabled
+[2018.10.28-23.46.06:430][  0]SourceControl: Source control is disabled
+[2018.10.28-23.46.06:468][  0]SourceControl: Source control is disabled
+[2018.10.28-23.46.08:350][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.10.28-23.46.08:891][  0]LogOcInput: OculusInput pre-init called
+[2018.10.28-23.46.10:155][  0]LogEngine: Initializing Engine...
+[2018.10.28-23.46.10:334][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.10.28-23.46.10:368][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.28-23.46.10:368][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.28-23.46.11:709][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.10.28-23.46.12:024][  0]LogInit: XAudio2 using 'LG FULL HD (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.28-23.46.12:126][  0]LogInit: FAudioDevice initialized.
+[2018.10.28-23.46.12:190][  0]LogDerivedDataCache: Error: Could not save memory cache C:/Users/joaod/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.10.28-23.46.12:230][  0]LogInit: Texture streaming: Enabled
+[2018.10.28-23.46.12:970][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.10.28-23.46.13:283][  0]LogInit: Transaction tracking system initialized
+[2018.10.28-23.46.13:683][  0]BlueprintLog: New page: Editor Load
+[2018.10.28-23.46.15:999][  0]LocalizationService: Localization service is disabled
+[2018.10.28-23.46.16:978][  0]LogConsoleResponse: Display: 
+[2018.10.28-23.46.21:289][  0]LogFileCache: Scanning file cache for directory 'E:/Work/light_dark_experiment/Dialogue_basedgame/Content/' took 0.06s
+[2018.10.28-23.46.21:289][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.10.28-23.46.21:289][  0]LogCook: Display: Mobile HDR setting 1
+[2018.10.28-23.46.21:289][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.10.28-23.46.21:289][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.28-23.46.21:289][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.28-23.46.24:301][  0]SourceControl: Source control is disabled
+[2018.10.28-23.46.24:332][  0]Cmd: MAP LOAD FILE="../../../../../../Work/light_dark_experiment/Dialogue_basedgame/Content/Levels/level2_sad_happy.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.28-23.46.24:352][  0]LightingResults: New page: Lighting Build
+[2018.10.28-23.46.24:589][  0]MapCheck: New page: Map Check
+[2018.10.28-23.46.24:589][  0]LightingResults: New page: Lighting Build
+[2018.10.28-23.46.26:347][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d084105a40, Size=64, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.10.28-23.46.26:538][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d084105a40, Size=64
+[2018.10.28-23.46.26:538][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d084105b40, Size=64, Default__ThirdPerson_AnimBP_C Function /Engine/Transient.REINST_ThirdPerson_AnimBP_C_0:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.10.28-23.46.26:723][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d0876d2160, Size=72, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.10.28-23.46.26:954][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d08769ba00, Size=488, Default__BP_DialogueManager_C Function /Game/DialogueSystem/Blueprints/BP_DialogueManager.BP_DialogueManager_C:ExecuteUbergraph_BP_DialogueManager
+[2018.10.28-23.46.26:987][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d087692400, Size=432, Default__Bp_MasterNPC_C Function /Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC_C:ExecuteUbergraph_Bp_MasterNPC
+[2018.10.28-23.46.26:991][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d0f3673200, Size=1120, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.10.28-23.46.27:374][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d0876dcfd0, Size=20, Default__DecisionOption_C Function /Game/DialogueSystem/Widgets/DecisionOption.DecisionOption_C:ExecuteUbergraph_DecisionOption
+[2018.10.28-23.46.27:807][  0]LogClass: Warning: Enum '/Game/DialogueSystem/Blueprints/Enums/e_DialogueSelectionTypes.e_DialogueSelectionTypes' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2018.10.28-23.46.27:848][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d08769ba00, Size=488
+[2018.10.28-23.46.27:848][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d08a523000, Size=488, Default__BP_DialogueManager_C Function /Engine/Transient.REINST_BP_DialogueManager_C_6:ExecuteUbergraph_BP_DialogueManager
+[2018.10.28-23.46.27:851][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d087692400, Size=432
+[2018.10.28-23.46.27:851][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d08aab4100, Size=432, Default__Bp_MasterNPC_C Function /Engine/Transient.REINST_Bp_MasterNPC_C_7:ExecuteUbergraph_Bp_MasterNPC
+[2018.10.28-23.46.27:853][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d0876dcfd0, Size=20
+[2018.10.28-23.46.27:853][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d08a48a8d8, Size=20, Default__DecisionOption_C Function /Engine/Transient.REINST_DecisionOption_C_2:ExecuteUbergraph_DecisionOption
+[2018.10.28-23.46.27:855][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d0f3673200, Size=1120
+[2018.10.28-23.46.27:855][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d087edeb00, Size=1120, Default__ThirdPersonCharacter_C Function /Engine/Transient.REINST_ThirdPersonCharacter_C_8:ExecuteUbergraph_ThirdPersonCharacter
+[2018.10.28-23.46.28:043][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d08bacb200, Size=496, Default__BP_DialogueManager_C Function /Game/DialogueSystem/Blueprints/BP_DialogueManager.BP_DialogueManager_C:ExecuteUbergraph_BP_DialogueManager
+[2018.10.28-23.46.28:055][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d083289b40, Size=432, Default__Bp_MasterNPC_C Function /Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC_C:ExecuteUbergraph_Bp_MasterNPC
+[2018.10.28-23.46.28:067][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d08ba36e60, Size=20, Default__DecisionOption_C Function /Game/DialogueSystem/Widgets/DecisionOption.DecisionOption_C:ExecuteUbergraph_DecisionOption
+[2018.10.28-23.46.28:076][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d08b903200, Size=1120, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.10.28-23.46.28:215][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d08b8a6b00, Size=432, Default__Bp_CasualCitizen_C Function /Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC_C:ExecuteUbergraph_Bp_MasterNPC
+[2018.10.28-23.46.28:235][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d08b8a6b00, Size=432
+[2018.10.28-23.46.28:235][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d08b8a6b00, Size=432, Default__Bp_CasualCitizen_C Function /Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC_C:ExecuteUbergraph_Bp_MasterNPC
+[2018.10.28-23.46.28:235][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d08b8a6080, Size=432, Default__Bp_CasualCitizen_C Function /Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC_C:ExecuteUbergraph_Bp_MasterNPC
+[2018.10.28-23.46.28:244][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d08b904e00, Size=496, Default__BP_NPC_happygirl_C Function /Game/DialogueSystem/Blueprints/AI/BP_NPC_happygirl.BP_NPC_happygirl_C:ExecuteUbergraph_BP_NPC_happygirl
+[2018.10.28-23.46.28:244][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d08b8a5d00, Size=432, Default__BP_NPC_happygirl_C Function /Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC_C:ExecuteUbergraph_Bp_MasterNPC
+[2018.10.28-23.46.28:254][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d08b904e00, Size=496
+[2018.10.28-23.46.28:254][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d08b8a5d00, Size=432
+[2018.10.28-23.46.28:254][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d08a6e1600, Size=496, Default__BP_NPC_happygirl_C Function /Engine/Transient.REINST_BP_NPC_happygirl_C_21:ExecuteUbergraph_BP_NPC_happygirl
+[2018.10.28-23.46.28:254][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d08b8a49c0, Size=432, Default__BP_NPC_happygirl_C Function /Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC_C:ExecuteUbergraph_Bp_MasterNPC
+[2018.10.28-23.46.28:283][  0]LogBlueprint: Error: [Compiler BP_NPC_happygirl] The type of  Object  is undetermined.  Connect something to  Cast To ThirdPersonCharacter  to imply a specific type.
+[2018.10.28-23.46.28:283][  0]LogBlueprint: Error: [Compiler BP_NPC_happygirl] The type of  Object  is undetermined.  Connect something to  Cast To ThirdPersonCharacter  to imply a specific type.
+[2018.10.28-23.46.28:284][  0]LogBlueprint: Error: [Compiler BP_NPC_happygirl] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2018.10.28-23.46.28:284][  0]LogBlueprint: Error: [Compiler BP_NPC_happygirl] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2018.10.28-23.46.28:284][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d08b8e1e00, Size=496, Default__BP_NPC_happygirl_C Function /Game/DialogueSystem/Blueprints/AI/BP_NPC_happygirl.BP_NPC_happygirl_C:ExecuteUbergraph_BP_NPC_happygirl
+[2018.10.28-23.46.28:284][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d08b8a50c0, Size=432, Default__BP_NPC_happygirl_C Function /Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC_C:ExecuteUbergraph_Bp_MasterNPC
+[2018.10.28-23.46.28:287][  0]LogBlueprint: Warning: [Compiler BP_NPC_happygirl] [0081,83] Compile of BP_NPC_happygirl failed. 4 Fatal Issue(s) 0 Warning(s) [in 36 ms] (/Game/DialogueSystem/Blueprints/AI/BP_NPC_happygirl.BP_NPC_happygirl)
+[2018.10.28-23.46.28:492][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d08ba7e4e0, Size=224, Default__Dark_points_item_C Function /Game/Blueprints/Dark_points_item.Dark_points_item_C:ExecuteUbergraph_Dark_points_item
+[2018.10.28-23.46.28:495][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d08ba7e4e0, Size=224
+[2018.10.28-23.46.28:495][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d08ba7e4e0, Size=224, Default__Dark_points_item_C Function /Engine/Transient.REINST_Dark_points_item_C_25:ExecuteUbergraph_Dark_points_item
+[2018.10.28-23.46.28:498][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d08ba7cc60, Size=224, Default__Dark_points_item_C Function /Game/Blueprints/Dark_points_item.Dark_points_item_C:ExecuteUbergraph_Dark_points_item
+[2018.10.28-23.46.28:504][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d08ba7c720, Size=224, Default__light_points_item_C Function /Game/Blueprints/light_points_item.light_points_item_C:ExecuteUbergraph_light_points_item
+[2018.10.28-23.46.28:507][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d08ba7c720, Size=224
+[2018.10.28-23.46.28:507][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d08ba7c720, Size=224, Default__light_points_item_C Function /Engine/Transient.REINST_light_points_item_C_27:ExecuteUbergraph_light_points_item
+[2018.10.28-23.46.28:509][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d0ee5e3580, Size=224, Default__light_points_item_C Function /Game/Blueprints/light_points_item.light_points_item_C:ExecuteUbergraph_light_points_item
+[2018.10.28-23.46.29:453][  0]LogTexture: Display: Building textures: BarHandle2 (BGRA8, 5X30)
+[2018.10.28-23.46.29:453][  0]LogTexture: Display: Building textures: BarDef (BGRA8, 550X20)
+[2018.10.28-23.46.29:453][  0]LogTexture: Display: Building textures: DialogueTextBorder (BGRA8, 192X192)
+[2018.10.28-23.46.29:453][  0]LogTexture: Display: Building textures: NameBorder (BGRA8, 1584X121)
+[2018.10.28-23.46.29:453][  0]LogTexture: Display: Building textures: BarFill (BGRA8, 550X20)
+[2018.10.28-23.46.29:453][  0]LogTexture: Display: Building textures: ContinueArrow (BGRA8, 80X80)
+[2018.10.28-23.46.29:453][  0]LogTexture: Display: Building textures: ShopIcon (BGRA8, 57X57)
+[2018.10.28-23.46.29:453][  0]LogTexture: Display: Building textures: SelectionArrow (BGRA8, 46X33)
+[2018.10.28-23.46.29:453][  0]LogTexture: Display: Building textures: OptionBorder (BGRA8, 350X45)
+[2018.10.28-23.46.29:453][  0]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 64X64)
+[2018.10.28-23.46.29:453][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 64X64)
+[2018.10.28-23.46.29:453][  0]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 64X32)
+[2018.10.28-23.46.29:453][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2018.10.28-23.46.29:453][  0]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 64X32)
+[2018.10.28-23.46.29:453][  0]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2018.10.28-23.46.29:453][  0]LogDerivedDataCache: FFileSystemDerivedDataBackend: Move collision, attempt at redundant update, OK C:/Users/joaod/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/9/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_10379F6F4502F5664F4CF283B3BD9__CEA7B7B94C7D4BA49FB587AABCCAA61B9172984C.udd.
+[2018.10.28-23.46.29:453][  0]LogDerivedDataCache: FFileSystemDerivedDataBackend: Move collision, attempt at redundant update, OK C:/Users/joaod/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/7/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_DD514887480A97BDEE8240A2C7045__3CC05358DDE717CC7879989BB0738E55E6A222CA.udd.
+[2018.10.28-23.46.29:453][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2018.10.28-23.46.29:453][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 64X32)
+[2018.10.28-23.46.29:724][  0]LogDerivedDataCache: FFileSystemDerivedDataBackend: Move collision, attempt at redundant update, OK C:/Users/joaod/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/5/5/PHYSX_0A50D9145BC447B69254BED33438406D_PHYSXPC_B279C6ED4B2EA557C587A5AFAA6C68D2__1_0_0_0_2_13315_0.udd.
+[2018.10.28-23.46.30:338][  0]LogClass: Warning: Enum '/Game/DialogueSystem/Blueprints/Enums/e_OptionCategories.e_OptionCategories' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2018.10.28-23.46.30:368][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Game/DialogueSystem/Widgets/DecisionDialogue (Unknown sequence)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.10.28-23.46.30:368][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Game/DialogueSystem/Widgets/DecisionDialogue (BlendIn)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.10.28-23.46.30:368][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (Unknown sequence)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.10.28-23.46.30:368][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (BlendIn_INST)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.10.28-23.46.30:368][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Game/DialogueSystem/Widgets/DecisionDialogue (BlendIn)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.10.28-23.46.30:368][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Game/DialogueSystem/Widgets/DecisionDialogue (BlendIn)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.10.28-23.46.30:368][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Game/DialogueSystem/Widgets/DecisionDialogue (BlendIn)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.10.28-23.46.30:369][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (BlendIn_INST)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.10.28-23.46.30:369][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (BlendIn_INST)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.10.28-23.46.30:369][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (BlendIn_INST)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.10.28-23.46.30:369][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Game/DialogueSystem/Widgets/DecisionDialogue (BlendIn)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.10.28-23.46.30:369][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Game/DialogueSystem/Widgets/DecisionDialogue (BlendIn)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.10.28-23.46.30:369][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Game/DialogueSystem/Widgets/DecisionDialogue (BlendIn)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.10.28-23.46.30:369][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (BlendIn_INST)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.10.28-23.46.30:369][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (BlendIn_INST)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.10.28-23.46.30:369][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (BlendIn_INST)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.10.28-23.46.30:533][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Game/DialogueSystem/Widgets/MainWidget (Unknown sequence)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.10.28-23.46.30:533][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Game/DialogueSystem/Widgets/MainWidget (FadeToBlack)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.10.28-23.46.30:533][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (Unknown sequence)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.10.28-23.46.30:533][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (FadeToBlack_INST)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.10.28-23.46.30:533][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Game/DialogueSystem/Widgets/MainWidget (FadeToBlack)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.10.28-23.46.30:533][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (FadeToBlack_INST)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.10.28-23.46.30:533][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Game/DialogueSystem/Widgets/MainWidget (FadeToBlack)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.10.28-23.46.30:533][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (FadeToBlack_INST)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.10.28-23.46.30:611][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Game/DialogueSystem/Widgets/DefaultDialogue (Unknown sequence)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.10.28-23.46.30:611][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Game/DialogueSystem/Widgets/DefaultDialogue (BlendIn)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.10.28-23.46.30:611][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (Unknown sequence)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.10.28-23.46.30:611][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (WidgetAnimation_0)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.10.28-23.46.30:611][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Game/DialogueSystem/Widgets/DefaultDialogue (BlendIn)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.10.28-23.46.30:611][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Game/DialogueSystem/Widgets/DefaultDialogue (BlendIn)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.10.28-23.46.30:611][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Game/DialogueSystem/Widgets/DefaultDialogue (BlendIn)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.10.28-23.46.30:612][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (WidgetAnimation_0)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.10.28-23.46.30:612][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (WidgetAnimation_0)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.10.28-23.46.30:612][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (WidgetAnimation_0)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.10.28-23.46.30:612][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Game/DialogueSystem/Widgets/DefaultDialogue (BlendIn)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.10.28-23.46.30:612][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Game/DialogueSystem/Widgets/DefaultDialogue (BlendIn)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.10.28-23.46.30:612][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Game/DialogueSystem/Widgets/DefaultDialogue (BlendIn)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.10.28-23.46.30:612][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (WidgetAnimation_0)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.10.28-23.46.30:612][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (WidgetAnimation_0)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.10.28-23.46.30:612][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (WidgetAnimation_0)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.10.28-23.46.30:646][  0]LogMaterial: Missing cached shader map for material M_UE4Man_Black, compiling. 
+[2018.10.28-23.46.30:941][  0]LogShaderCompilers: Display: Shaders left to compile 128
+[2018.10.28-23.46.30:942][  0]LogShaderCompilers: Display: Shaders left to compile 118
+[2018.10.28-23.46.30:942][  0]LogShaderCompilers: Display: Shaders left to compile 108
+[2018.10.28-23.46.30:942][  0]LogShaderCompilers: Display: Shaders left to compile 98
+[2018.10.28-23.46.30:942][  0]LogShaderCompilers: Display: Shaders left to compile 88
+[2018.10.28-23.46.30:942][  0]LogMaterial: Missing cached shader map for material RampMaterial, compiling. 
+[2018.10.28-23.46.30:990][  0]LogMaterial: Missing cached shader map for material Materrial_black, compiling. 
+[2018.10.28-23.46.31:282][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [226.056534ms] /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2018.10.28-23.46.32:809][  0]LogAIModule: Creating AISystem for world level2_sad_happy
+[2018.10.28-23.46.35:671][  0]LogMaterial: Warning: Material /Game/Geometry/Meshes/RampMaterial.RampMaterial needed to have new flag set bUsedWithSkeletalMesh !
+[2018.10.28-23.46.35:740][  0]LogMaterial: Missing cached shader map for material RampMaterial, compiling. 
+[2018.10.28-23.46.35:773][  0]MapCheck: Warning: RampMaterial Material /Game/Geometry/Meshes/RampMaterial.RampMaterial was missing the usage flag bUsedWithSkeletalMesh. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2018.10.28-23.46.36:404][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.28-23.46.50:790][  0]LogShaderCompilers: Display: Shaders left to compile 247
+[2018.10.28-23.46.50:790][  0]LogShaderCompilers: Display: Shaders left to compile 237
+[2018.10.28-23.46.50:790][  0]LogShaderCompilers: Display: Shaders left to compile 227
+[2018.10.28-23.46.50:790][  0]LogShaderCompilers: Display: Shaders left to compile 217
+[2018.10.28-23.46.50:790][  0]LogShaderCompilers: Display: Shaders left to compile 207
+[2018.10.28-23.46.50:791][  0]LogShaderCompilers: Display: Shaders left to compile 197
+[2018.10.28-23.46.50:791][  0]LogShaderCompilers: Display: Shaders left to compile 187
+[2018.10.28-23.46.50:791][  0]LogShaderCompilers: Display: Shaders left to compile 177
+[2018.10.28-23.46.50:791][  0]LogShaderCompilers: Display: Shaders left to compile 167
+[2018.10.28-23.46.50:791][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d084105b40, Size=64
+[2018.10.28-23.46.50:812][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d08a523000, Size=488
+[2018.10.28-23.46.50:812][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d08aab4100, Size=432
+[2018.10.28-23.46.50:812][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d087edeb00, Size=1120
+[2018.10.28-23.46.50:813][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d08a48a8d8, Size=20
+[2018.10.28-23.46.50:813][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d08b8a6b00, Size=432
+[2018.10.28-23.46.50:813][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d08a6e1600, Size=496
+[2018.10.28-23.46.50:813][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d08b8a49c0, Size=432
+[2018.10.28-23.46.50:814][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d08ba7e4e0, Size=224
+[2018.10.28-23.46.50:814][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d08ba7c720, Size=224
+[2018.10.28-23.46.51:220][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.28-23.46.51:402][  0]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 181,183ms to complete.
+[2018.10.28-23.46.51:528][  0]LogShaderCompilers: Display: Shaders left to compile 157
+[2018.10.28-23.46.51:673][  0]LogFileHelpers: Loading map 'level2_sad_happy' took 27.349
+[2018.10.28-23.46.53:487][  0]LogShaderCompilers: Display: Shaders left to compile 147
+[2018.10.28-23.46.55:317][  0]LogCollectionManager: Loaded 0 collections in 0.001853 seconds
+[2018.10.28-23.46.55:552][  0]LogFileCache: Scanning file cache for directory 'E:/Work/light_dark_experiment/Dialogue_basedgame/Saved/Collections/' took 0.02s
+[2018.10.28-23.46.55:552][  0]LogFileCache: Scanning file cache for directory 'E:/Work/light_dark_experiment/Dialogue_basedgame/Content/Developers/joaod/Collections/' took 0.02s
+[2018.10.28-23.46.55:552][  0]LogFileCache: Scanning file cache for directory 'E:/Work/light_dark_experiment/Dialogue_basedgame/Content/Collections/' took 0.01s
+[2018.10.28-23.46.55:552][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.10.28-23.46.55:578][  0]LogContentBrowser: Native class hierarchy populated in 0.0248 seconds. Added 2452 classes and 558 folders.
+[2018.10.28-23.46.55:818][  0]LogShaderCompilers: Display: Shaders left to compile 137
+[2018.10.28-23.46.55:818][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.10.28-23.46.57:219][  0]LogShaderCompilers: Display: Shaders left to compile 127
+[2018.10.28-23.46.57:220][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.10.28-23.46.57:320][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.10.28-23.46.58:362][  0]LogSlate: Took 0.027999 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.28-23.46.58:441][  0]LogSlate: Took 0.033873 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.10.28-23.46.58:571][  0]LogShaderCompilers: Display: Shaders left to compile 117
+[2018.10.28-23.46.58:571][  0]LogSlate: Took 0.064758 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.10.28-23.46.59:516][  0]LogRenderer: Reallocating scene render targets to support 1208x580 Format 10 NumSamples 1 (Frame:1).
+[2018.10.28-23.47.19:549][  0]LogShaderCompilers: Display: Shaders left to compile 107
+[2018.10.28-23.47.19:549][  0]LogShaderCompilers: Display: Shaders left to compile 97
+[2018.10.28-23.47.19:549][  0]LogShaderCompilers: Display: Shaders left to compile 87
+[2018.10.28-23.47.19:549][  0]LogShaderCompilers: Display: Shaders left to compile 77
+[2018.10.28-23.47.19:549][  0]LogShaderCompilers: Display: Shaders left to compile 67
+[2018.10.28-23.47.19:549][  0]LogShaderCompilers: Display: Shaders left to compile 57
+[2018.10.28-23.47.19:549][  0]LogShaderCompilers: Display: Shaders left to compile 47
+[2018.10.28-23.47.19:549][  0]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.10.28-23.47.19:549][  0]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.10.28-23.47.19:549][  0]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.10.28-23.47.19:549][  0]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.10.28-23.47.19:607][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.10.28-23.47.19:607][  0]LogLoad: (Engine Initialization) Total time: 133.15 seconds
+[2018.10.28-23.47.19:607][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.10.28-23.47.20:239][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.28-23.47.20:464][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.10.28-23.47.21:627][  1]LogSlate: Took 0.016064 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.28-23.47.22:059][  3]LogAssetRegistry: Asset discovery search completed in 120.1363 seconds
+[2018.10.28-23.47.22:094][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.10.28-23.47.22:094][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.007140 seconds (updated 0 objects)
+[2018.10.28-23.48.42:944][363]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.28-23.48.43:050][374]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.28-23.48.43:091][374]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/level2_sad_happy.level2_sad_happy:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/level2_sad_happy.level2_sad_happy:PersistentLevel.level2_sad_happy' with GeneratedClass '/Game/Levels/level2_sad_happy.level2_sad_happy_C' with ClassGeneratedBy '/Game/Levels/level2_sad_happy.level2_sad_happy:PersistentLevel.level2_sad_happy'
+[2018.10.28-23.48.43:153][374]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.28-23.48.48:013][374]LogSlate: Window 'Message' being destroyed
+[2018.10.28-23.48.59:047][101]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.28-23.48.59:056][101]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/level2_sad_happy.level2_sad_happy:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/level2_sad_happy.level2_sad_happy:PersistentLevel.level2_sad_happy' with GeneratedClass '/Game/Levels/level2_sad_happy.level2_sad_happy_C' with ClassGeneratedBy '/Game/Levels/level2_sad_happy.level2_sad_happy:PersistentLevel.level2_sad_happy'
+[2018.10.28-23.48.59:056][101]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.28-23.49.01:029][101]LogSlate: Window 'Message' being destroyed
+[2018.10.28-23.49.01:138][101]PIE: New page: PIE session: level2_sad_happy (28/10/2018, 23:49:01)
+[2018.10.28-23.49.01:145][101]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_level2_sad_happy
+[2018.10.28-23.49.01:292][101]LogPlayLevel: PIE: StaticDuplicateObject took: (0.147058s)
+[2018.10.28-23.49.01:293][101]LogAIModule: Creating AISystem for world level2_sad_happy
+[2018.10.28-23.49.01:313][101]LogPlayLevel: PIE: World Init took: (0.021231s)
+[2018.10.28-23.49.01:313][101]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/level2_sad_happy.level2_sad_happy to /Game/Levels/UEDPIE_0_level2_sad_happy.level2_sad_happy (0.168658s)
+[2018.10.28-23.49.01:401][101]LogInit: XAudio2 using 'LG FULL HD (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.28-23.49.01:411][101]LogInit: FAudioDevice initialized.
+[2018.10.28-23.49.01:505][101]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.10.28-23.49.01:677][101]LogWorld: Bringing World /Game/Levels/UEDPIE_0_level2_sad_happy.level2_sad_happy up for play (max tick rate 0) at 2018.10.28-23.49.01
+[2018.10.28-23.49.01:819][101]LogWorld: Bringing up level for play took: 0.163008
+[2018.10.28-23.49.01:893][101]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.10.28-23.49.01:893][101]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.10.28-23.49.01:893][101]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.10.28-23.49.01:894][101]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.10.28-23.49.01:925][101]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'WalkingPath' of length 0 in '/Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC_C'!
+[2018.10.28-23.49.01:925][101]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'WalkingPath' of length 0 in '/Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC_C'!
+[2018.10.28-23.49.02:040][101]LogScript: Warning: Accessed None trying to read property NPCWidget
+	BP_NPC_happygirl_C /Game/Levels/UEDPIE_0_level2_sad_happy.level2_sad_happy:PersistentLevel.BP_NPC_happygirl_682
+	Function /Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC_C:UpdateName:0016
+[2018.10.28-23.49.02:040][101]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property NPCWidget from function: 'UpdateName' from node: Cast To NPCWidget in graph: UpdateName in object: Bp_MasterNPC with description: Accessed None trying to read property NPCWidget
+[2018.10.28-23.49.02:040][101]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.10.28-23.49.02:060][101]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_level2_sad_happy 3,466
+[2018.10.28-23.49.02:060][101]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/level2_sad_happy.level2_sad_happy:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/level2_sad_happy.level2_sad_happy:PersistentLevel.level2_sad_happy' with GeneratedClass '/Game/Levels/level2_sad_happy.level2_sad_happy_C' with ClassGeneratedBy '/Game/Levels/level2_sad_happy.level2_sad_happy:PersistentLevel.level2_sad_happy'
+[2018.10.28-23.49.03:796][213]LogScript: Warning: Accessed None trying to read property NPCWidget
+	BP_NPC_happygirl_C /Game/Levels/UEDPIE_0_level2_sad_happy.level2_sad_happy:PersistentLevel.BP_NPC_happygirl_682
+	Function /Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC_C:ExecuteUbergraph_Bp_MasterNPC:1304
+[2018.10.28-23.49.03:796][213]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property NPCWidget from function: 'ExecuteUbergraph_Bp_MasterNPC' from node: Set Visibility in graph: EventGraph in object: Bp_MasterNPC with description: Accessed None trying to read property NPCWidget
+[2018.10.28-23.49.03:809][214]LogScript: Warning: Accessed None trying to read property NPCWidget
+	BP_NPC_happygirl_C /Game/Levels/UEDPIE_0_level2_sad_happy.level2_sad_happy:PersistentLevel.BP_NPC_happygirl_682
+	Function /Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC_C:ExecuteUbergraph_Bp_MasterNPC:132B
+[2018.10.28-23.49.03:809][214]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property NPCWidget from function: 'ExecuteUbergraph_Bp_MasterNPC' from node: Set Visibility in graph: EventGraph in object: Bp_MasterNPC with description: Accessed None trying to read property NPCWidget
+[2018.10.28-23.49.03:963][225]LogScript: Warning: Accessed None trying to read property NPCWidget
+	BP_NPC_happygirl_C /Game/Levels/UEDPIE_0_level2_sad_happy.level2_sad_happy:PersistentLevel.BP_NPC_happygirl_682
+	Function /Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC_C:ExecuteUbergraph_Bp_MasterNPC:1304
+[2018.10.28-23.49.03:963][225]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property NPCWidget from function: 'ExecuteUbergraph_Bp_MasterNPC' from node: Set Visibility in graph: EventGraph in object: Bp_MasterNPC with description: Accessed None trying to read property NPCWidget
+[2018.10.28-23.49.04:339][252]LogScript: Warning: Accessed None trying to read property NPCWidget
+	BP_NPC_happygirl_C /Game/Levels/UEDPIE_0_level2_sad_happy.level2_sad_happy:PersistentLevel.BP_NPC_happygirl_682
+	Function /Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC_C:ExecuteUbergraph_Bp_MasterNPC:132B
+[2018.10.28-23.49.04:339][252]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property NPCWidget from function: 'ExecuteUbergraph_Bp_MasterNPC' from node: Set Visibility in graph: EventGraph in object: Bp_MasterNPC with description: Accessed None trying to read property NPCWidget
+[2018.10.28-23.49.04:477][262]LogScript: Warning: Accessed None trying to read property NPCWidget
+	BP_NPC_happygirl_C /Game/Levels/UEDPIE_0_level2_sad_happy.level2_sad_happy:PersistentLevel.BP_NPC_happygirl_682
+	Function /Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC_C:ExecuteUbergraph_Bp_MasterNPC:1304
+[2018.10.28-23.49.04:477][262]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property NPCWidget from function: 'ExecuteUbergraph_Bp_MasterNPC' from node: Set Visibility in graph: EventGraph in object: Bp_MasterNPC with description: Accessed None trying to read property NPCWidget
+[2018.10.28-23.49.05:555][316]LogScript: Warning: Accessed None trying to read property NPCWidget
+	BP_NPC_happygirl_C /Game/Levels/UEDPIE_0_level2_sad_happy.level2_sad_happy:PersistentLevel.BP_NPC_happygirl_682
+	Function /Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC_C:ExecuteUbergraph_Bp_MasterNPC:00EA
+[2018.10.28-23.49.05:555][316]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property NPCWidget from function: 'ExecuteUbergraph_Bp_MasterNPC' from node: Set Visibility in graph: EventGraph in object: Bp_MasterNPC with description: Accessed None trying to read property NPCWidget
+[2018.10.28-23.49.08:666][546]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/level2_sad_happy.level2_sad_happy:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/level2_sad_happy.level2_sad_happy:PersistentLevel.level2_sad_happy' with GeneratedClass '/Game/Levels/level2_sad_happy.level2_sad_happy_C' with ClassGeneratedBy '/Game/Levels/level2_sad_happy.level2_sad_happy:PersistentLevel.level2_sad_happy'
+[2018.10.28-23.49.08:928][546]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/level2_sad_happy.level2_sad_happy:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/level2_sad_happy.level2_sad_happy:PersistentLevel.level2_sad_happy' with GeneratedClass '/Game/Levels/level2_sad_happy.level2_sad_happy_C' with ClassGeneratedBy '/Game/Levels/level2_sad_happy.level2_sad_happy:PersistentLevel.level2_sad_happy'
+[2018.10.28-23.49.10:479][641]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.28-23.49.16:111][  0]LogSlate: Took 0.000311 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.28-23.49.17:027][  0]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 116 classes and 0 folders.
+[2018.10.28-23.49.17:665][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d0ad4f0b70, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.10.28-23.49.17:681][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d0ad4f0b68, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.10.28-23.49.19:310][  0]LogSlate: Took 0.016474 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.10.28-23.49.19:899][  1]LogSlate: Took 0.016862 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.10.28-23.49.54:207][990]LogSlate: Window 'Bp_MasterNPC' being destroyed
+[2018.10.28-23.49.54:213][990]LogSlate: Window 'Bp_MasterNPC' being destroyed
+[2018.10.28-23.49.54:781][ 16]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.28-23.52.40:836][ 90]LogSlate: Window 'Message Log' being destroyed
+[2018.10.28-23.52.40:854][ 90]LogSlate: Window 'Message Log' being destroyed
+[2018.10.28-23.52.41:495][135]LogEditorViewport: Clicking on Actor (LMB): BP_NPC_happygirl_C (BP_NPC_happygirl)
+[2018.10.28-23.52.43:849][224]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.28-23.55.43:227][490]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d106fc9230, Size=4, Default__SKEL_BP_NPC_happygirl_C Function /Game/DialogueSystem/Blueprints/AI/BP_NPC_happygirl.SKEL_BP_NPC_happygirl_C:ExecuteUbergraph_BP_NPC_happygirl
+[2018.10.28-23.56.03:755][594]LogEditorTransaction: Undo Delete current selection
+[2018.10.28-23.56.03:812][594]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d106fc9230, Size=4
+[2018.10.28-23.56.03:812][594]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d117bd3560, Size=4, Default__SKEL_BP_NPC_happygirl_C Function /Engine/Transient.REINST_SKEL_BP_NPC_happygirl_C_46:ExecuteUbergraph_BP_NPC_happygirl
+[2018.10.28-23.56.03:815][594]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d117bd2ec8, Size=4, Default__SKEL_BP_NPC_happygirl_C Function /Game/DialogueSystem/Blueprints/AI/BP_NPC_happygirl.SKEL_BP_NPC_happygirl_C:ExecuteUbergraph_BP_NPC_happygirl
+[2018.10.28-23.57.52:442][768]LogSlate: Window 'Bp_MasterNPC*' being destroyed
+[2018.10.28-23.57.52:463][768]LogSlate: Window 'Bp_MasterNPC*' being destroyed
+[2018.10.28-23.57.52:480][768]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.10.28-23.57.55:191][943]LogEditorViewport: Clicking on Actor (LMB): Bp_CasualCitizen_C (Bp_CasualCitizen3)
+[2018.10.28-23.57.57:441][ 89]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.28-23.57.59:836][167]LogSlate: Window 'Bp_CasualCitizen' being destroyed
+[2018.10.28-23.58.02:078][259]LogSlate: Window 'Bp_CasualCitizen' being destroyed
+[2018.10.28-23.58.02:082][259]LogSlate: Window 'Bp_CasualCitizen' being destroyed
+[2018.10.28-23.58.03:203][332]LogEditorViewport: Clicking on Actor (LMB): BP_NPC_happygirl_C (BP_NPC_happygirl)
+[2018.10.28-23.58.04:067][382]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.28-23.58.36:854][819]LogRenderer: Reallocating scene render targets to support 1208x720 Format 10 NumSamples 1 (Frame:1).
+[2018.10.28-23.59.30:065][101]LogWindows: Warning: CreateProc failed: O sistema não conseguiu localizar o ficheiro especificado. (0x00000002)
+[2018.10.28-23.59.30:065][101]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2018.10.28-23.59.30:065][101]LogWindows: Warning: CreateProc failed: O sistema não conseguiu localizar o ficheiro especificado. (0x00000002)
+[2018.10.28-23.59.30:065][101]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2018.10.28-23.59.30:074][101]LogWindows: Warning: CreateProc failed: O sistema não conseguiu localizar o ficheiro especificado. (0x00000002)
+[2018.10.28-23.59.30:074][101]LogWindows: Warning: URL: C:\Users\joaod\AppData\Local/Programs/Git/cmd/git.exe version
+[2018.10.28-23.59.30:074][101]LogWindows: Warning: CreateProc failed: O sistema não conseguiu localizar o ficheiro especificado. (0x00000002)
+[2018.10.28-23.59.30:074][101]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2018.10.28-23.59.30:075][101]LogWindows: Warning: CreateProc failed: O sistema não conseguiu localizar o ficheiro especificado. (0x00000002)
+[2018.10.28-23.59.30:075][101]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2018.10.28-23.59.30:075][101]LogWindows: Warning: CreateProc failed: O sistema não conseguiu localizar o ficheiro especificado. (0x00000002)
+[2018.10.28-23.59.30:075][101]LogWindows: Warning: URL: C:\Users\joaod\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2018.10.28-23.59.30:075][101]LogWindows: Warning: CreateProc failed: O sistema não conseguiu localizar o ficheiro especificado. (0x00000002)
+[2018.10.28-23.59.30:075][101]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2018.10.28-23.59.57:481][354]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d117bd3560, Size=4
+[2018.10.28-23.59.58:046][354]LogSavePackage: Save=513.21ms
+[2018.10.28-23.59.58:046][354]LogSavePackage: Moving '../../../../../../Work/light_dark_experiment/Dialogue_basedgame/Saved/level2_sad_happy_Auto13CE98FDC44778C0134E3DFB017EA62B6.tmp' to '../../../../../../Work/light_dark_experiment/Dialogue_basedgame/Saved/Autosaves/Game/Levels/level2_sad_happy_Auto1.umap'
+[2018.10.28-23.59.58:116][354]LogSavePackage: Display: Finished SavePackage ../../../../../../Work/light_dark_experiment/Dialogue_basedgame/Saved/Autosaves/Game/Levels/level2_sad_happy_Auto1.umap
+[2018.10.28-23.59.58:153][354]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/level2_sad_happy' took 0.739
+[2018.10.28-23.59.58:154][354]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.739
+[2018.10.28-23.59.58:156][354]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC] ([1] browsable assets)...
+[2018.10.28-23.59.58:230][354]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC]
+[2018.10.28-23.59.58:230][354]OBJ SavePackage: Finished generating thumbnails for package [/Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC]
+[2018.10.28-23.59.58:561][354]LogSavePackage: Save=325.05ms
+[2018.10.28-23.59.58:561][354]LogSavePackage: Moving '../../../../../../Work/light_dark_experiment/Dialogue_basedgame/Saved/Bp_MasterNPC_Auto19C3515744E81B3B287D934869362CECA.tmp' to '../../../../../../Work/light_dark_experiment/Dialogue_basedgame/Saved/Autosaves/Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC_Auto1.uasset'
+[2018.10.28-23.59.58:562][354]LogSavePackage: Display: Finished SavePackage ../../../../../../Work/light_dark_experiment/Dialogue_basedgame/Saved/Autosaves/Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC_Auto1.uasset
+[2018.10.28-23.59.58:562][354]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/DialogueSystem/Blueprints/AI/BP_NPC_happygirl] ([1] browsable assets)...
+[2018.10.28-23.59.58:591][354]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/DialogueSystem/Blueprints/AI/BP_NPC_happygirl.BP_NPC_happygirl]
+[2018.10.28-23.59.58:591][354]OBJ SavePackage: Finished generating thumbnails for package [/Game/DialogueSystem/Blueprints/AI/BP_NPC_happygirl]
+[2018.10.28-23.59.58:644][354]LogSavePackage: Save=50.52ms
+[2018.10.28-23.59.58:644][354]LogSavePackage: Moving '../../../../../../Work/light_dark_experiment/Dialogue_basedgame/Saved/BP_NPC_happygirl_Auto13DC51F5A48EA1D85B9DDCABAE477969C.tmp' to '../../../../../../Work/light_dark_experiment/Dialogue_basedgame/Saved/Autosaves/Game/DialogueSystem/Blueprints/AI/BP_NPC_happygirl_Auto1.uasset'
+[2018.10.28-23.59.58:645][354]LogSavePackage: Display: Finished SavePackage ../../../../../../Work/light_dark_experiment/Dialogue_basedgame/Saved/Autosaves/Game/DialogueSystem/Blueprints/AI/BP_NPC_happygirl_Auto1.uasset
+[2018.10.28-23.59.58:645][354]LogFileHelpers: Auto-saving content packages took 0.491
+[2018.10.29-00.00.16:025][561]LogWindows: Warning: CreateProc failed: O sistema não conseguiu localizar o ficheiro especificado. (0x00000002)
+[2018.10.29-00.00.16:025][561]LogWindows: Warning: URL: https://github.com/lucakgit/light_dark_experiment.git version
+[2018.10.29-00.00.21:912][965]LogWindows: Warning: CreateProc failed: O sistema não conseguiu localizar o ficheiro especificado. (0x00000002)
+[2018.10.29-00.00.21:912][965]LogWindows: Warning: URL: https://github.com/lucakgit/light_dark_experiment.git version
+[2018.10.29-00.00.21:917][965]SourceControl: Error: Failed to enable Git source control. You need to install Git and specify a valid path to git executable.
+[2018.10.29-00.00.30:008][420]LogSlate: Window 'Message Log' being destroyed
+[2018.10.29-00.00.30:032][420]LogSlate: Window 'Message Log' being destroyed
+[2018.10.29-00.00.50:878][216]LogWindows: Warning: CreateProc failed: Acesso negado. (0x00000005)
+[2018.10.29-00.00.50:879][216]LogWindows: Warning: URL: E:\Programas\Git\cmd version
+[2018.10.29-00.00.52:645][337]LogWindows: Warning: CreateProc failed: Acesso negado. (0x00000005)
+[2018.10.29-00.00.52:645][337]LogWindows: Warning: URL: E:\Programas\Git\cmd version
+[2018.10.29-00.00.52:645][337]SourceControl: Error: Failed to enable Git source control. You need to install Git and specify a valid path to git executable.
+[2018.10.29-00.01.02:351][723]LogSlate: Window 'Source Control Login' being destroyed
+[2018.10.29-00.01.08:247][ 51]LogSavePackage: Save=253.27ms
+[2018.10.29-00.01.08:248][ 51]LogSavePackage: Moving '../../../../../../Work/light_dark_experiment/Dialogue_basedgame/Saved/level2_sad_happyADD44FAB44C6AF3FE4F0FA85D3890AFB.tmp' to '../../../../../../Work/light_dark_experiment/Dialogue_basedgame/Content/Levels/level2_sad_happy.umap'
+[2018.10.29-00.01.08:266][ 51]LogSavePackage: Display: Finished SavePackage ../../../../../../Work/light_dark_experiment/Dialogue_basedgame/Content/Levels/level2_sad_happy.umap
+[2018.10.29-00.01.08:276][ 51]LogFileHelpers: Saving map 'level2_sad_happy' took 0.414
+[2018.10.29-00.01.08:522][ 51]LogSavePackage: Save=239.02ms
+[2018.10.29-00.01.08:522][ 51]LogSavePackage: Moving '../../../../../../Work/light_dark_experiment/Dialogue_basedgame/Saved/Bp_MasterNPCCD6EA5584D0F180D313DC5A6DF79E899.tmp' to '../../../../../../Work/light_dark_experiment/Dialogue_basedgame/Content/DialogueSystem/Blueprints/AI/Bp_MasterNPC.uasset'
+[2018.10.29-00.01.08:559][ 51]LogSavePackage: Display: Finished SavePackage ../../../../../../Work/light_dark_experiment/Dialogue_basedgame/Content/DialogueSystem/Blueprints/AI/Bp_MasterNPC.uasset
+[2018.10.29-00.01.08:623][ 51]LogSavePackage: Save=55.86ms
+[2018.10.29-00.01.08:623][ 51]LogSavePackage: Moving '../../../../../../Work/light_dark_experiment/Dialogue_basedgame/Saved/BP_NPC_happygirlF8C71EBF4163C34B0A13698D2E90C729.tmp' to '../../../../../../Work/light_dark_experiment/Dialogue_basedgame/Content/DialogueSystem/Blueprints/AI/BP_NPC_happygirl.uasset'
+[2018.10.29-00.01.08:625][ 51]LogSavePackage: Display: Finished SavePackage ../../../../../../Work/light_dark_experiment/Dialogue_basedgame/Content/DialogueSystem/Blueprints/AI/BP_NPC_happygirl.uasset
+[2018.10.29-00.01.11:173][217]SourceControl: fatal: E:/Jogos/Epic Games/UE_4.19/Engine/Content: 'E:/Jogos/Epic Games/UE_4.19/Engine/Content' is outside repository
+[2018.10.29-00.01.16:602][217]LogSlate: Window 'Submit Files' being destroyed
+[2018.10.29-00.01.19:048][217]LogSourceControl: commit successful: [master edf6995] test
+[2018.10.29-00.01.19:136][217]SourceControl: [master edf6995] test
+[2018.10.29-00.01.19:136][217]SourceControl:  3 files changed, 0 insertions(+), 0 deletions(-)
+[2018.10.29-00.01.19:136][217]SourceControl:  rewrite Dialogue_basedgame/Content/DialogueSystem/Blueprints/AI/BP_NPC_happygirl.uasset (73%)
+[2018.10.29-00.01.19:144][217]SourceControl: Commited [master edf6995] test.
+[2018.10.29-00.01.23:497][427]LogSlate: Window 'BP_NPC_happygirl' being destroyed
+[2018.10.29-00.01.23:503][427]LogSlate: Window 'BP_NPC_happygirl' being destroyed
+[2018.10.29-00.01.54:554][590]LogSlate: Window 'BP_NPC_happygirl' being destroyed
+[2018.10.29-00.01.54:558][590]LogSlate: Window 'BP_NPC_happygirl' being destroyed
+[2018.10.29-00.01.56:123][694]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2018.10.29-00.01.58:518][836]LogEditorViewport: Clicking on Actor (LMB): Dark_points_item_C (points_item)
+[2018.10.29-00.01.59:920][931]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.29-00.02.55:679][193]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d093953ce0, Size=4, Default__SKEL_Dark_points_item_C Function /Game/Blueprints/Dark_points_item.SKEL_Dark_points_item_C:ExecuteUbergraph_Dark_points_item
+[2018.10.29-00.03.00:591][469]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d093953ce0, Size=4
+[2018.10.29-00.03.00:591][469]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d08c2e4a58, Size=4, Default__SKEL_Dark_points_item_C Function /Engine/Transient.REINST_SKEL_Dark_points_item_C_58:ExecuteUbergraph_Dark_points_item
+[2018.10.29-00.03.00:593][469]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d08c2e4ba8, Size=4, Default__SKEL_Dark_points_item_C Function /Game/Blueprints/Dark_points_item.SKEL_Dark_points_item_C:ExecuteUbergraph_Dark_points_item
+[2018.10.29-00.03.02:371][570]LogSlate: Took 0.022120 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.10.29-00.03.11:122][ 44]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d08c2e4ba8, Size=4
+[2018.10.29-00.03.11:122][ 44]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d08c2e4ba8, Size=4, Default__SKEL_Dark_points_item_C Function /Engine/Transient.REINST_SKEL_Dark_points_item_C_60:ExecuteUbergraph_Dark_points_item
+[2018.10.29-00.03.11:124][ 44]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d08c2e4b08, Size=4, Default__SKEL_Dark_points_item_C Function /Game/Blueprints/Dark_points_item.SKEL_Dark_points_item_C:ExecuteUbergraph_Dark_points_item
+[2018.10.29-00.03.41:902][804]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d08c2e4b08, Size=4
+[2018.10.29-00.03.41:902][804]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d11c495060, Size=4, Default__SKEL_Dark_points_item_C Function /Engine/Transient.REINST_SKEL_Dark_points_item_C_62:ExecuteUbergraph_Dark_points_item
+[2018.10.29-00.03.41:904][804]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d11c494d38, Size=4, Default__SKEL_Dark_points_item_C Function /Game/Blueprints/Dark_points_item.SKEL_Dark_points_item_C:ExecuteUbergraph_Dark_points_item
+[2018.10.29-00.05.05:050][738]BlueprintLog: New page: Compile Dark_points_item
+[2018.10.29-00.05.05:056][738]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d11c494d38, Size=4
+[2018.10.29-00.05.05:056][738]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d106fc8bb8, Size=4, Default__SKEL_Dark_points_item_C Function /Engine/Transient.REINST_SKEL_Dark_points_item_C_64:ExecuteUbergraph_Dark_points_item
+[2018.10.29-00.05.05:063][738]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d08ba7cc60, Size=224
+[2018.10.29-00.05.05:063][738]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d0b2438100, Size=224, Default__Dark_points_item_C Function /Engine/Transient.REINST_Dark_points_item_C_66:ExecuteUbergraph_Dark_points_item
+[2018.10.29-00.05.05:081][738]LogBlueprint: Warning: [Compiler Dark_points_item] 'Third Person Character' does not inherit from 'Primitive Component' ( Cast To ThirdPersonCharacter  would always fail).
+[2018.10.29-00.05.05:083][738]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d0c0f9b2e0, Size=208, Default__Dark_points_item_C Function /Game/Blueprints/Dark_points_item.Dark_points_item_C:ExecuteUbergraph_Dark_points_item
+[2018.10.29-00.05.05:768][738]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d106fc8bb8, Size=4
+[2018.10.29-00.05.05:770][738]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d11c495060, Size=4
+[2018.10.29-00.05.05:770][738]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d08c2e4ba8, Size=4
+[2018.10.29-00.05.05:770][738]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d08c2e4a58, Size=4
+[2018.10.29-00.05.05:788][738]LogBlueprint: Warning: [Compiler Dark_points_item] [1199,74] Compile of Dark_points_item successful, but with 1 Warning(s) [in 738 ms] (/Game/Blueprints/Dark_points_item.Dark_points_item)
+[2018.10.29-00.05.06:519][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Dark_points_item" FILE="../../../../../../Work/light_dark_experiment/Dialogue_basedgame/Content/Blueprints/Dark_points_item.uasset" SILENT=true
+[2018.10.29-00.05.06:565][774]LogSavePackage: Save=43.46ms
+[2018.10.29-00.05.06:565][774]LogSavePackage: Moving '../../../../../../Work/light_dark_experiment/Dialogue_basedgame/Saved/Dark_points_item609367904BA0FF613F9D9AA5FB634B9E.tmp' to '../../../../../../Work/light_dark_experiment/Dialogue_basedgame/Content/Blueprints/Dark_points_item.uasset'
+[2018.10.29-00.05.06:567][774]LogSavePackage: Display: Finished SavePackage ../../../../../../Work/light_dark_experiment/Dialogue_basedgame/Content/Blueprints/Dark_points_item.uasset
+[2018.10.29-00.05.28:784][ 57]BlueprintLog: New page: Compile Dark_points_item
+[2018.10.29-00.05.28:797][ 57]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d0c0f9b2e0, Size=208
+[2018.10.29-00.05.28:798][ 57]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d1034790c0, Size=208, Dark_points_item_C_20 Function /Engine/Transient.REINST_Dark_points_item_C_70:ExecuteUbergraph_Dark_points_item
+[2018.10.29-00.05.28:801][ 57]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d0c0f98720, Size=200, Default__Dark_points_item_C Function /Game/Blueprints/Dark_points_item.Dark_points_item_C:ExecuteUbergraph_Dark_points_item
+[2018.10.29-00.05.29:584][ 57]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d0b2438100, Size=224
+[2018.10.29-00.05.30:195][ 85]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Dark_points_item" FILE="../../../../../../Work/light_dark_experiment/Dialogue_basedgame/Content/Blueprints/Dark_points_item.uasset" SILENT=true
+[2018.10.29-00.05.30:224][ 85]LogSavePackage: Save=26.60ms
+[2018.10.29-00.05.30:224][ 85]LogSavePackage: Moving '../../../../../../Work/light_dark_experiment/Dialogue_basedgame/Saved/Dark_points_item101A691D4B09279887245B8FA036E7F7.tmp' to '../../../../../../Work/light_dark_experiment/Dialogue_basedgame/Content/Blueprints/Dark_points_item.uasset'
+[2018.10.29-00.05.30:225][ 85]LogSavePackage: Display: Finished SavePackage ../../../../../../Work/light_dark_experiment/Dialogue_basedgame/Content/Blueprints/Dark_points_item.uasset
+[2018.10.29-00.05.33:495][304]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.29-00.05.33:594][311]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.29-00.05.33:608][311]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/level2_sad_happy.level2_sad_happy:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/level2_sad_happy.level2_sad_happy:PersistentLevel.level2_sad_happy' with GeneratedClass '/Game/Levels/level2_sad_happy.level2_sad_happy_C' with ClassGeneratedBy '/Game/Levels/level2_sad_happy.level2_sad_happy:PersistentLevel.level2_sad_happy'
+[2018.10.29-00.05.33:609][311]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.10.29-00.05.33:702][311]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d117bd2ec8, Size=4
+[2018.10.29-00.05.33:702][311]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d11c9e9b18, Size=4, Default__SKEL_BP_NPC_happygirl_C Function /Engine/Transient.REINST_SKEL_BP_NPC_happygirl_C_75:ExecuteUbergraph_BP_NPC_happygirl
+[2018.10.29-00.05.33:711][311]LogPlayLevel: [PlayLevel] Compiling Bp_MasterNPC before play...
+[2018.10.29-00.05.33:826][311]LogPlayLevel: [PlayLevel]   Compiling ThirdPersonCharacter as a dependent...
+[2018.10.29-00.05.33:870][311]LogPlayLevel: [PlayLevel]   Compiling Bp_CasualCitizen as a dependent...
+[2018.10.29-00.05.33:872][311]LogPlayLevel: [PlayLevel]   Compiling BP_NPC_happygirl as a dependent...
+[2018.10.29-00.05.33:885][311]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d083289b40, Size=432
+[2018.10.29-00.05.33:885][311]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d117fd1980, Size=432, Default__Bp_MasterNPC_C Function /Engine/Transient.REINST_Bp_MasterNPC_C_80:ExecuteUbergraph_Bp_MasterNPC
+[2018.10.29-00.05.33:887][311]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d08b903200, Size=1120
+[2018.10.29-00.05.33:887][311]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d0affec800, Size=1120, Default__ThirdPersonCharacter_C Function /Engine/Transient.REINST_ThirdPersonCharacter_C_81:ExecuteUbergraph_ThirdPersonCharacter
+[2018.10.29-00.05.33:887][311]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d08b8a6080, Size=432
+[2018.10.29-00.05.33:887][311]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d117c5a940, Size=432, Default__Bp_CasualCitizen_C Function /Engine/Transient.REINST_Bp_MasterNPC_C_80:ExecuteUbergraph_Bp_MasterNPC
+[2018.10.29-00.05.33:888][311]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d08b8e1e00, Size=496
+[2018.10.29-00.05.33:888][311]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d08b8a50c0, Size=432
+[2018.10.29-00.05.33:888][311]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d0b0057800, Size=496, Default__BP_NPC_happygirl_C Function /Engine/Transient.REINST_BP_NPC_happygirl_C_83:ExecuteUbergraph_BP_NPC_happygirl
+[2018.10.29-00.05.33:888][311]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d117c58d40, Size=432, Default__BP_NPC_happygirl_C Function /Engine/Transient.REINST_Bp_MasterNPC_C_80:ExecuteUbergraph_Bp_MasterNPC
+[2018.10.29-00.05.33:933][311]LogBlueprint: Error: [Compiler BP_NPC_happygirl] The type of  Object  is undetermined.  Connect something to  Cast To ThirdPersonCharacter  to imply a specific type.
+[2018.10.29-00.05.33:934][311]LogBlueprint: Error: [Compiler BP_NPC_happygirl] The type of  Object  is undetermined.  Connect something to  Cast To ThirdPersonCharacter  to imply a specific type.
+[2018.10.29-00.05.33:941][311]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d0b9874480, Size=432, Default__Bp_MasterNPC_C Function /Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC_C:ExecuteUbergraph_Bp_MasterNPC
+[2018.10.29-00.05.33:948][311]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d0b3edeb00, Size=1120, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.10.29-00.05.33:951][311]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d11d326780, Size=432, Default__Bp_CasualCitizen_C Function /Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC_C:ExecuteUbergraph_Bp_MasterNPC
+[2018.10.29-00.05.33:952][311]LogBlueprint: Error: [Compiler BP_NPC_happygirl] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2018.10.29-00.05.33:952][311]LogBlueprint: Error: [Compiler BP_NPC_happygirl] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2018.10.29-00.05.33:952][311]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d119b81800, Size=496, Default__BP_NPC_happygirl_C Function /Game/DialogueSystem/Blueprints/AI/BP_NPC_happygirl.BP_NPC_happygirl_C:ExecuteUbergraph_BP_NPC_happygirl
+[2018.10.29-00.05.33:953][311]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d118547200, Size=432, Default__BP_NPC_happygirl_C Function /Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC_C:ExecuteUbergraph_Bp_MasterNPC
+[2018.10.29-00.05.33:963][311]LogBlueprint: Warning: [Compiler BP_NPC_happygirl] [1227,92] Compile of BP_NPC_happygirl failed. 4 Fatal Issue(s) 0 Warning(s) [in 262 ms] (/Game/DialogueSystem/Blueprints/AI/BP_NPC_happygirl.BP_NPC_happygirl)
+[2018.10.29-00.05.34:902][311]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d117c5a940, Size=432
+[2018.10.29-00.05.34:903][311]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d1034790c0, Size=208
+[2018.10.29-00.05.34:903][311]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d11c9e9b18, Size=4
+[2018.10.29-00.05.34:906][311]LogPlayLevel: PlayLevel: Blueprint regeneration took 1297 ms (4 blueprints)
+[2018.10.29-00.05.34:906][311]BlueprintLog: Blueprint BP_NPC_happygirl failed to compile
+[2018.10.29-00.05.36:815][311]LogSlate: Window 'Message' being destroyed
+[2018.10.29-00.05.36:820][311]PIE: New page: PIE session: level2_sad_happy (29/10/2018, 00:05:36)
+[2018.10.29-00.05.36:820][311]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_level2_sad_happy
+[2018.10.29-00.05.36:852][311]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032042s)
+[2018.10.29-00.05.36:854][311]LogAIModule: Creating AISystem for world level2_sad_happy
+[2018.10.29-00.05.36:854][311]LogPlayLevel: PIE: World Init took: (0.001756s)
+[2018.10.29-00.05.36:854][311]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/level2_sad_happy.level2_sad_happy to /Game/Levels/UEDPIE_0_level2_sad_happy.level2_sad_happy (0.034069s)
+[2018.10.29-00.05.36:929][311]LogInit: XAudio2 using 'LG FULL HD (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.29-00.05.36:939][311]LogInit: FAudioDevice initialized.
+[2018.10.29-00.05.36:970][311]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.10.29-00.05.36:976][311]LogWorld: Bringing World /Game/Levels/UEDPIE_0_level2_sad_happy.level2_sad_happy up for play (max tick rate 0) at 2018.10.29-00.05.36
+[2018.10.29-00.05.36:977][311]LogWorld: Bringing up level for play took: 0.005692
+[2018.10.29-00.05.36:977][311]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.10.29-00.05.36:978][311]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.10.29-00.05.36:978][311]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.10.29-00.05.36:982][311]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'WalkingPath' of length 0 in '/Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC_C'!
+[2018.10.29-00.05.36:982][311]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'WalkingPath' of length 0 in '/Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC_C'!
+[2018.10.29-00.05.36:982][311]LogScript: Warning: Accessed None trying to read property NPCWidget
+	BP_NPC_happygirl_C /Game/Levels/UEDPIE_0_level2_sad_happy.level2_sad_happy:PersistentLevel.BP_NPC_happygirl_682
+	Function /Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC_C:UpdateName:0016
+[2018.10.29-00.05.36:982][311]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property NPCWidget from function: 'UpdateName' from node: Cast To NPCWidget in graph: UpdateName in object: Bp_MasterNPC with description: Accessed None trying to read property NPCWidget
+[2018.10.29-00.05.36:982][311]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.10.29-00.05.36:982][311]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_level2_sad_happy 2,801
+[2018.10.29-00.05.36:982][311]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/level2_sad_happy.level2_sad_happy:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/level2_sad_happy.level2_sad_happy:PersistentLevel.level2_sad_happy' with GeneratedClass '/Game/Levels/level2_sad_happy.level2_sad_happy_C' with ClassGeneratedBy '/Game/Levels/level2_sad_happy.level2_sad_happy:PersistentLevel.level2_sad_happy'
+[2018.10.29-00.05.38:632][431]LogScript: Warning: Accessed None trying to read property NPCWidget
+	BP_NPC_happygirl_C /Game/Levels/UEDPIE_0_level2_sad_happy.level2_sad_happy:PersistentLevel.BP_NPC_happygirl_682
+	Function /Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC_C:ExecuteUbergraph_Bp_MasterNPC:1304
+[2018.10.29-00.05.38:632][431]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property NPCWidget from function: 'ExecuteUbergraph_Bp_MasterNPC' from node: Set Visibility in graph: EventGraph in object: Bp_MasterNPC with description: Accessed None trying to read property NPCWidget
+[2018.10.29-00.05.38:645][432]LogScript: Warning: Accessed None trying to read property NPCWidget
+	BP_NPC_happygirl_C /Game/Levels/UEDPIE_0_level2_sad_happy.level2_sad_happy:PersistentLevel.BP_NPC_happygirl_682
+	Function /Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC_C:ExecuteUbergraph_Bp_MasterNPC:132B
+[2018.10.29-00.05.38:645][432]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property NPCWidget from function: 'ExecuteUbergraph_Bp_MasterNPC' from node: Set Visibility in graph: EventGraph in object: Bp_MasterNPC with description: Accessed None trying to read property NPCWidget
+[2018.10.29-00.05.39:643][510]LogBlueprintUserMessages: [points_item_203] YOU GOT 1 DARK POINT
+[2018.10.29-00.05.39:910][531]LogBlueprintUserMessages: [light_points_item_275] YOU GOT 1 LIGHT POINT
+[2018.10.29-00.05.40:201][554]LogBlueprintUserMessages: [light_points_item3_755] YOU GOT 1 LIGHT POINT
+[2018.10.29-00.05.40:423][572]LogBlueprintUserMessages: [light_points_item2_485] YOU GOT 1 LIGHT POINT
+[2018.10.29-00.05.41:401][650]LogBlueprintUserMessages: [points_item3] YOU GOT 1 DARK POINT
+[2018.10.29-00.05.41:443][653]LogBlueprintUserMessages: [points_item2] YOU GOT 1 DARK POINT
+[2018.10.29-00.05.41:780][678]LogBlueprintUserMessages: [points_item4] YOU GOT 1 DARK POINT
+[2018.10.29-00.05.42:513][735]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/level2_sad_happy.level2_sad_happy:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/level2_sad_happy.level2_sad_happy:PersistentLevel.level2_sad_happy' with GeneratedClass '/Game/Levels/level2_sad_happy.level2_sad_happy_C' with ClassGeneratedBy '/Game/Levels/level2_sad_happy.level2_sad_happy:PersistentLevel.level2_sad_happy'
+[2018.10.29-00.05.42:559][735]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/level2_sad_happy.level2_sad_happy:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/level2_sad_happy.level2_sad_happy:PersistentLevel.level2_sad_happy' with GeneratedClass '/Game/Levels/level2_sad_happy.level2_sad_happy_C' with ClassGeneratedBy '/Game/Levels/level2_sad_happy.level2_sad_happy:PersistentLevel.level2_sad_happy'
+[2018.10.29-00.05.44:244][848]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.29-00.06.15:418][378]LogSlate: Window 'Dark_points_item' being destroyed
+[2018.10.29-00.06.15:439][378]LogSlate: Window 'Dark_points_item' being destroyed
+[2018.10.29-00.06.15:439][378]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.10.29-00.06.17:168][501]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.29-00.06.17:236][506]LogSlate: Window 'Message Log' being destroyed
+[2018.10.29-00.06.17:254][506]LogSlate: Window 'Message Log' being destroyed
+[2018.10.29-00.06.17:784][547]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.29-00.06.20:111][726]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.29-00.06.20:170][726]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.29-00.06.20:543][726]LogSavePackage: Save=221.35ms
+[2018.10.29-00.06.20:544][726]LogSavePackage: Moving '../../../../../../Work/light_dark_experiment/Dialogue_basedgame/Saved/level2_sad_happyABC2C64145C52C710F2CF1B5652AF036.tmp' to '../../../../../../Work/light_dark_experiment/Dialogue_basedgame/Content/Levels/level2_sad_happy.umap'
+[2018.10.29-00.06.20:546][726]LogSavePackage: Display: Finished SavePackage ../../../../../../Work/light_dark_experiment/Dialogue_basedgame/Content/Levels/level2_sad_happy.umap
+[2018.10.29-00.06.20:556][726]LogFileHelpers: Saving map 'level2_sad_happy' took 0.379
+[2018.10.29-00.06.21:329][785]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.29-00.06.22:437][866]SourceControl: fatal: E:/Jogos/Epic Games/UE_4.19/Engine/Content: 'E:/Jogos/Epic Games/UE_4.19/Engine/Content' is outside repository
+[2018.10.29-00.06.22:539][866]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.29-00.06.39:433][866]LogSlate: Window 'Submit Files' being destroyed
+[2018.10.29-00.06.39:444][866]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.29-00.06.39:554][866]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.29-00.06.41:014][866]LogSourceControl: commit successful: [master b9467e1] changed dark points items
+[2018.10.29-00.06.41:113][866]SourceControl: [master b9467e1] changed dark points items
+[2018.10.29-00.06.41:113][866]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
+[2018.10.29-00.06.41:113][866]SourceControl:  rewrite Dialogue_basedgame/Content/Blueprints/Dark_points_item.uasset (93%)
+[2018.10.29-00.06.41:118][866]SourceControl: Commited [master b9467e1] changed dark points items.
+[2018.10.29-00.07.00:417][823]LogEditorViewport: Clicking on Actor (LMB): BP_NPC_happygirl_C (BP_NPC_happygirl)
+[2018.10.29-00.07.01:299][872]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.29-00.07.48:748][ 99]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d1067a9890, Size=4, Default__SKEL_BP_NPC_happygirl_C Function /Game/DialogueSystem/Blueprints/AI/BP_NPC_happygirl.SKEL_BP_NPC_happygirl_C:ExecuteUbergraph_BP_NPC_happygirl
+[2018.10.29-00.07.53:154][344]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d1067a9890, Size=4
+[2018.10.29-00.07.53:154][344]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d11c9ea0b0, Size=4, Default__SKEL_BP_NPC_happygirl_C Function /Engine/Transient.REINST_SKEL_BP_NPC_happygirl_C_94:ExecuteUbergraph_BP_NPC_happygirl
+[2018.10.29-00.07.53:157][344]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d11c9ea4f0, Size=4, Default__SKEL_BP_NPC_happygirl_C Function /Game/DialogueSystem/Blueprints/AI/BP_NPC_happygirl.SKEL_BP_NPC_happygirl_C:ExecuteUbergraph_BP_NPC_happygirl
+[2018.10.29-00.08.03:589][888]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d11c9ea4f0, Size=4
+[2018.10.29-00.08.03:589][888]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d11c9ea4f0, Size=4, Default__SKEL_BP_NPC_happygirl_C Function /Engine/Transient.REINST_SKEL_BP_NPC_happygirl_C_96:ExecuteUbergraph_BP_NPC_happygirl
+[2018.10.29-00.08.03:593][888]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d11c9e9410, Size=4, Default__SKEL_BP_NPC_happygirl_C Function /Game/DialogueSystem/Blueprints/AI/BP_NPC_happygirl.SKEL_BP_NPC_happygirl_C:ExecuteUbergraph_BP_NPC_happygirl
+[2018.10.29-00.08.22:409][827]LogEditorTransaction: Undo Move Node
+[2018.10.29-00.08.22:410][827]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d11c9e9410, Size=4
+[2018.10.29-00.08.22:410][827]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d106cc10c8, Size=4, Default__SKEL_BP_NPC_happygirl_C Function /Engine/Transient.REINST_SKEL_BP_NPC_happygirl_C_98:ExecuteUbergraph_BP_NPC_happygirl
+[2018.10.29-00.08.22:413][827]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d106cc30e0, Size=4, Default__SKEL_BP_NPC_happygirl_C Function /Game/DialogueSystem/Blueprints/AI/BP_NPC_happygirl.SKEL_BP_NPC_happygirl_C:ExecuteUbergraph_BP_NPC_happygirl
+[2018.10.29-00.08.23:084][851]LogEditorTransaction: Undo Add Node
+[2018.10.29-00.08.23:085][851]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d106cc30e0, Size=4
+[2018.10.29-00.08.23:085][851]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d106cc30e0, Size=4, Default__SKEL_BP_NPC_happygirl_C Function /Engine/Transient.REINST_SKEL_BP_NPC_happygirl_C_100:ExecuteUbergraph_BP_NPC_happygirl
+[2018.10.29-00.08.23:088][851]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d106cc38b8, Size=4, Default__SKEL_BP_NPC_happygirl_C Function /Game/DialogueSystem/Blueprints/AI/BP_NPC_happygirl.SKEL_BP_NPC_happygirl_C:ExecuteUbergraph_BP_NPC_happygirl
+[2018.10.29-00.08.23:557][873]LogEditorTransaction: Undo Delete current selection
+[2018.10.29-00.08.23:558][873]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d106cc38b8, Size=4
+[2018.10.29-00.08.23:559][873]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d11c9e80f0, Size=4, Default__SKEL_BP_NPC_happygirl_C Function /Engine/Transient.REINST_SKEL_BP_NPC_happygirl_C_102:ExecuteUbergraph_BP_NPC_happygirl
+[2018.10.29-00.08.23:562][873]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d11c9e9e30, Size=4, Default__SKEL_BP_NPC_happygirl_C Function /Game/DialogueSystem/Blueprints/AI/BP_NPC_happygirl.SKEL_BP_NPC_happygirl_C:ExecuteUbergraph_BP_NPC_happygirl
+[2018.10.29-00.08.24:354][913]LogEditorTransaction: Undo Delete current selection
+[2018.10.29-00.08.24:355][913]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d11c9e9e30, Size=4
+[2018.10.29-00.08.24:355][913]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d106cc1a68, Size=4, Default__SKEL_BP_NPC_happygirl_C Function /Engine/Transient.REINST_SKEL_BP_NPC_happygirl_C_104:ExecuteUbergraph_BP_NPC_happygirl
+[2018.10.29-00.08.24:360][913]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d106cc2590, Size=4, Default__SKEL_BP_NPC_happygirl_C Function /Game/DialogueSystem/Blueprints/AI/BP_NPC_happygirl.SKEL_BP_NPC_happygirl_C:ExecuteUbergraph_BP_NPC_happygirl
+[2018.10.29-00.08.54:936][494]BlueprintLog: New page: Compile BP_NPC_happygirl
+[2018.10.29-00.08.54:949][494]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d106cc2590, Size=4
+[2018.10.29-00.08.54:949][494]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d11c4979e8, Size=4, Default__SKEL_BP_NPC_happygirl_C Function /Engine/Transient.REINST_SKEL_BP_NPC_happygirl_C_106:ExecuteUbergraph_BP_NPC_happygirl
+[2018.10.29-00.08.54:963][494]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d119b81800, Size=496
+[2018.10.29-00.08.54:963][494]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d118547200, Size=432
+[2018.10.29-00.08.54:963][494]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d0dbc62e00, Size=496, BP_NPC_happygirl_C_66 Function /Engine/Transient.REINST_BP_NPC_happygirl_C_108:ExecuteUbergraph_BP_NPC_happygirl
+[2018.10.29-00.08.54:963][494]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d0b9121600, Size=432, BP_NPC_happygirl_C_66 Function /Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC_C:ExecuteUbergraph_Bp_MasterNPC
+[2018.10.29-00.08.54:970][494]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d0dbc60600, Size=464, Default__BP_NPC_happygirl_C Function /Game/DialogueSystem/Blueprints/AI/BP_NPC_happygirl.BP_NPC_happygirl_C:ExecuteUbergraph_BP_NPC_happygirl
+[2018.10.29-00.08.54:970][494]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d09a18fac0, Size=432, Default__BP_NPC_happygirl_C Function /Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC_C:ExecuteUbergraph_Bp_MasterNPC
+[2018.10.29-00.08.55:596][494]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d11c4979e8, Size=4
+[2018.10.29-00.08.55:596][494]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d106cc1a68, Size=4
+[2018.10.29-00.08.55:596][494]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d11c9e80f0, Size=4
+[2018.10.29-00.08.55:596][494]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d106cc30e0, Size=4
+[2018.10.29-00.08.55:596][494]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d106cc10c8, Size=4
+[2018.10.29-00.08.56:330][523]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.29-00.08.56:412][523]LogSavePackage: Save=51.93ms
+[2018.10.29-00.08.56:412][523]LogSavePackage: Moving '../../../../../../Work/light_dark_experiment/Dialogue_basedgame/Saved/BP_NPC_happygirl65DDF9FE49245F592B9A1EA417E261B9.tmp' to '../../../../../../Work/light_dark_experiment/Dialogue_basedgame/Content/DialogueSystem/Blueprints/AI/BP_NPC_happygirl.uasset'
+[2018.10.29-00.08.56:413][523]LogSavePackage: Display: Finished SavePackage ../../../../../../Work/light_dark_experiment/Dialogue_basedgame/Content/DialogueSystem/Blueprints/AI/BP_NPC_happygirl.uasset
+[2018.10.29-00.08.56:763][542]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.29-00.09.05:153][987]LogSlate: Window 'BP_NPC_happygirl' being destroyed
+[2018.10.29-00.09.05:158][987]LogSlate: Window 'BP_NPC_happygirl' being destroyed
+[2018.10.29-00.09.06:384][ 63]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.29-00.09.06:518][ 72]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.29-00.09.06:531][ 72]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/level2_sad_happy.level2_sad_happy:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/level2_sad_happy.level2_sad_happy:PersistentLevel.level2_sad_happy' with GeneratedClass '/Game/Levels/level2_sad_happy.level2_sad_happy_C' with ClassGeneratedBy '/Game/Levels/level2_sad_happy.level2_sad_happy:PersistentLevel.level2_sad_happy'
+[2018.10.29-00.09.06:531][ 72]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.29-00.09.06:531][ 72]PIE: New page: PIE session: level2_sad_happy (29/10/2018, 00:09:06)
+[2018.10.29-00.09.06:531][ 72]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_level2_sad_happy
+[2018.10.29-00.09.06:562][ 72]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030390s)
+[2018.10.29-00.09.06:563][ 72]LogAIModule: Creating AISystem for world level2_sad_happy
+[2018.10.29-00.09.06:564][ 72]LogPlayLevel: PIE: World Init took: (0.001725s)
+[2018.10.29-00.09.06:564][ 72]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/level2_sad_happy.level2_sad_happy to /Game/Levels/UEDPIE_0_level2_sad_happy.level2_sad_happy (0.032371s)
+[2018.10.29-00.09.06:628][ 72]LogInit: XAudio2 using 'LG FULL HD (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.29-00.09.06:637][ 72]LogInit: FAudioDevice initialized.
+[2018.10.29-00.09.06:673][ 72]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.10.29-00.09.06:679][ 72]LogWorld: Bringing World /Game/Levels/UEDPIE_0_level2_sad_happy.level2_sad_happy up for play (max tick rate 0) at 2018.10.29-00.09.06
+[2018.10.29-00.09.06:680][ 72]LogWorld: Bringing up level for play took: 0.006274
+[2018.10.29-00.09.06:681][ 72]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.10.29-00.09.06:681][ 72]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.10.29-00.09.06:681][ 72]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.10.29-00.09.06:685][ 72]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'WalkingPath' of length 0 in '/Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC_C'!
+[2018.10.29-00.09.06:685][ 72]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'WalkingPath' of length 0 in '/Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC_C'!
+[2018.10.29-00.09.06:685][ 72]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.10.29-00.09.06:685][ 72]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_level2_sad_happy 0,503
+[2018.10.29-00.09.06:686][ 72]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/level2_sad_happy.level2_sad_happy:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/level2_sad_happy.level2_sad_happy:PersistentLevel.level2_sad_happy' with GeneratedClass '/Game/Levels/level2_sad_happy.level2_sad_happy_C' with ClassGeneratedBy '/Game/Levels/level2_sad_happy.level2_sad_happy:PersistentLevel.level2_sad_happy'
+[2018.10.29-00.09.15:914][749]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/level2_sad_happy.level2_sad_happy:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/level2_sad_happy.level2_sad_happy:PersistentLevel.level2_sad_happy' with GeneratedClass '/Game/Levels/level2_sad_happy.level2_sad_happy_C' with ClassGeneratedBy '/Game/Levels/level2_sad_happy.level2_sad_happy:PersistentLevel.level2_sad_happy'
+[2018.10.29-00.09.15:957][749]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/level2_sad_happy.level2_sad_happy:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/level2_sad_happy.level2_sad_happy:PersistentLevel.level2_sad_happy' with GeneratedClass '/Game/Levels/level2_sad_happy.level2_sad_happy_C' with ClassGeneratedBy '/Game/Levels/level2_sad_happy.level2_sad_happy:PersistentLevel.level2_sad_happy'
+[2018.10.29-00.09.17:059][820]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor8)
+[2018.10.29-00.09.20:981][ 89]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.29-00.09.25:912][357]LogSlate: Window 'Bp_CasualCitizen' being destroyed
+[2018.10.29-00.09.25:933][357]LogSlate: Window 'Bp_CasualCitizen' being destroyed
+[2018.10.29-00.09.28:792][555]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.29-00.09.44:996][396]LogSlate: Window 'BP_DialogueManager' being destroyed
+[2018.10.29-00.09.45:001][396]LogSlate: Window 'BP_DialogueManager' being destroyed
+[2018.10.29-00.09.46:530][496]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.29-00.10.17:574][940]LogSlate: Window 'Bp_MasterNPC' being destroyed
+[2018.10.29-00.10.17:580][940]LogSlate: Window 'Bp_MasterNPC' being destroyed
+[2018.10.29-00.10.18:485][981]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.29-00.10.20:499][ 45]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d107cc8f00, Size=1368, Default__Bp_CustomNPC_C Function /Game/DialogueSystem/Blueprints/AI/Bp_CustomNPC.Bp_CustomNPC_C:ExecuteUbergraph_Bp_CustomNPC
+[2018.10.29-00.10.20:499][ 45]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d0b3ee10c0, Size=432, Default__Bp_CustomNPC_C Function /Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC_C:ExecuteUbergraph_Bp_MasterNPC
+[2018.10.29-00.10.20:514][ 45]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d107cc8f00, Size=1368
+[2018.10.29-00.10.20:514][ 45]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d0b3ee10c0, Size=432
+[2018.10.29-00.10.20:514][ 45]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d09d7e2400, Size=1368, Default__Bp_CustomNPC_C Function /Engine/Transient.REINST_Bp_CustomNPC_C_110:ExecuteUbergraph_Bp_CustomNPC
+[2018.10.29-00.10.20:514][ 45]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d0b3ee10c0, Size=432, Default__Bp_CustomNPC_C Function /Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC_C:ExecuteUbergraph_Bp_MasterNPC
+[2018.10.29-00.10.20:523][ 45]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d0b5014100, Size=1368, Default__Bp_CustomNPC_C Function /Game/DialogueSystem/Blueprints/AI/Bp_CustomNPC.Bp_CustomNPC_C:ExecuteUbergraph_Bp_CustomNPC
+[2018.10.29-00.10.20:523][ 45]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d0c0dec100, Size=432, Default__Bp_CustomNPC_C Function /Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC_C:ExecuteUbergraph_Bp_MasterNPC
+[2018.10.29-00.10.20:551][ 45]LogTexture: Display: Building textures: EndDialogIcon (BGRA8, 57X57)
+[2018.10.29-00.10.23:923][189]LogSlate: Window 'Bp_CustomNPC' being destroyed
+[2018.10.29-00.10.23:929][189]LogSlate: Window 'Bp_CustomNPC' being destroyed
+[2018.10.29-00.10.24:639][220]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.29-00.10.35:454][732]LogSlate: Window 'BP_NPC_happygirl' being destroyed
+[2018.10.29-00.10.35:459][732]LogSlate: Window 'BP_NPC_happygirl' being destroyed
+[2018.10.29-00.10.36:155][766]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.29-00.10.40:787][957]LogSlate: Window 'Bp_CustomNPC' being destroyed
+[2018.10.29-00.10.40:792][957]LogSlate: Window 'Bp_CustomNPC' being destroyed
+[2018.10.29-00.10.41:573][989]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.29-00.11.17:413][905]LogSlate: Window 'Bp_MasterNPC' being destroyed
+[2018.10.29-00.11.17:418][905]LogSlate: Window 'Bp_MasterNPC' being destroyed
+[2018.10.29-00.11.25:793][461]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.29-00.11.25:853][465]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.29-00.11.25:867][465]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/level2_sad_happy.level2_sad_happy:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/level2_sad_happy.level2_sad_happy:PersistentLevel.level2_sad_happy' with GeneratedClass '/Game/Levels/level2_sad_happy.level2_sad_happy_C' with ClassGeneratedBy '/Game/Levels/level2_sad_happy.level2_sad_happy:PersistentLevel.level2_sad_happy'
+[2018.10.29-00.11.25:867][465]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.29-00.11.25:867][465]PIE: New page: PIE session: level2_sad_happy (29/10/2018, 00:11:25)
+[2018.10.29-00.11.25:867][465]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_level2_sad_happy
+[2018.10.29-00.11.25:897][465]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029984s)
+[2018.10.29-00.11.25:899][465]LogAIModule: Creating AISystem for world level2_sad_happy
+[2018.10.29-00.11.25:899][465]LogPlayLevel: PIE: World Init took: (0.001690s)
+[2018.10.29-00.11.25:899][465]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/level2_sad_happy.level2_sad_happy to /Game/Levels/UEDPIE_0_level2_sad_happy.level2_sad_happy (0.031965s)
+[2018.10.29-00.11.25:952][465]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d0affec800, Size=1120
+[2018.10.29-00.11.25:957][465]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d09d7e2400, Size=1368
+[2018.10.29-00.11.25:957][465]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d0b3ee10c0, Size=432
+[2018.10.29-00.11.25:971][465]LogInit: XAudio2 using 'LG FULL HD (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.29-00.11.25:980][465]LogInit: FAudioDevice initialized.
+[2018.10.29-00.11.26:014][465]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.10.29-00.11.26:020][465]LogWorld: Bringing World /Game/Levels/UEDPIE_0_level2_sad_happy.level2_sad_happy up for play (max tick rate 0) at 2018.10.29-00.11.26
+[2018.10.29-00.11.26:021][465]LogWorld: Bringing up level for play took: 0.005943
+[2018.10.29-00.11.26:022][465]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.10.29-00.11.26:022][465]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.10.29-00.11.26:022][465]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.10.29-00.11.26:026][465]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'WalkingPath' of length 0 in '/Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC_C'!
+[2018.10.29-00.11.26:026][465]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'WalkingPath' of length 0 in '/Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC_C'!
+[2018.10.29-00.11.26:026][465]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.10.29-00.11.26:026][465]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_level2_sad_happy -0,156
+[2018.10.29-00.11.26:026][465]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/level2_sad_happy.level2_sad_happy:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/level2_sad_happy.level2_sad_happy:PersistentLevel.level2_sad_happy' with GeneratedClass '/Game/Levels/level2_sad_happy.level2_sad_happy_C' with ClassGeneratedBy '/Game/Levels/level2_sad_happy.level2_sad_happy:PersistentLevel.level2_sad_happy'
+[2018.10.29-00.11.29:622][723]LogBlueprintUserMessages: [points_item_203] YOU GOT 1 DARK POINT
+[2018.10.29-00.11.29:663][726]LogBlueprintUserMessages: [points_item2] YOU GOT 1 DARK POINT
+[2018.10.29-00.11.32:927][977]LogBlueprintUserMessages: [points_item3] YOU GOT 1 DARK POINT
+[2018.10.29-00.11.33:116][992]LogBlueprintUserMessages: [light_points_item_275] YOU GOT 1 LIGHT POINT
+[2018.10.29-00.11.33:279][  5]LogBlueprintUserMessages: [light_points_item2_485] YOU GOT 1 LIGHT POINT
+[2018.10.29-00.11.33:555][ 27]LogBlueprintUserMessages: [light_points_item3_755] YOU GOT 1 LIGHT POINT
+[2018.10.29-00.11.33:629][ 33]LogBlueprintUserMessages: [points_item4] YOU GOT 1 DARK POINT
+[2018.10.29-00.11.49:519][237]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'WalkingPath' of length 0 in '/Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC_C'!
+[2018.10.29-00.11.58:781][930]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'WalkingPath' of length 0 in '/Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC_C'!
+[2018.10.29-00.12.13:458][992]LogScript: Warning: Accessed None trying to read property Player Reference
+	BP_NPC_happygirl_C /Game/Levels/UEDPIE_0_level2_sad_happy.level2_sad_happy:PersistentLevel.BP_NPC_happygirl_682
+	Function /Game/DialogueSystem/Blueprints/AI/BP_NPC_happygirl.BP_NPC_happygirl_C:ExecuteUbergraph_BP_NPC_happygirl:0114
+[2018.10.29-00.12.13:459][992]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Player Reference from function: 'ExecuteUbergraph_BP_NPC_happygirl' from node: Set LightPoints in graph: EventGraph in object: BP_NPC_happygirl with description: Accessed None trying to read property Player Reference
+[2018.10.29-00.12.13:459][992]LogScript: Warning: Accessed None trying to read property Player Reference
+	BP_NPC_happygirl_C /Game/Levels/UEDPIE_0_level2_sad_happy.level2_sad_happy:PersistentLevel.BP_NPC_happygirl_682
+	Function /Game/DialogueSystem/Blueprints/AI/BP_NPC_happygirl.BP_NPC_happygirl_C:ExecuteUbergraph_BP_NPC_happygirl:0143
+[2018.10.29-00.12.13:459][992]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Player Reference from function: 'ExecuteUbergraph_BP_NPC_happygirl' from node: Set LightPoints in graph: EventGraph in object: BP_NPC_happygirl with description: Accessed None trying to read property Player Reference
+[2018.10.29-00.12.13:459][992]LogScript: Warning: Attempted to assign to None
+	BP_NPC_happygirl_C /Game/Levels/UEDPIE_0_level2_sad_happy.level2_sad_happy:PersistentLevel.BP_NPC_happygirl_682
+	Function /Game/DialogueSystem/Blueprints/AI/BP_NPC_happygirl.BP_NPC_happygirl_C:ExecuteUbergraph_BP_NPC_happygirl:0158
+[2018.10.29-00.12.13:459][992]PIE: Error: Blueprint Runtime Error: Attempted to assign to None from function: 'ExecuteUbergraph_BP_NPC_happygirl' from node: Set LightPoints in graph: EventGraph in object: BP_NPC_happygirl with description: Attempted to assign to None
+[2018.10.29-00.12.13:459][992]LogBlueprintUserMessages: [BP_NPC_happygirl_682] You get point A
+[2018.10.29-00.12.17:909][319]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/level2_sad_happy.level2_sad_happy:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/level2_sad_happy.level2_sad_happy:PersistentLevel.level2_sad_happy' with GeneratedClass '/Game/Levels/level2_sad_happy.level2_sad_happy_C' with ClassGeneratedBy '/Game/Levels/level2_sad_happy.level2_sad_happy:PersistentLevel.level2_sad_happy'
+[2018.10.29-00.12.17:954][319]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/level2_sad_happy.level2_sad_happy:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/level2_sad_happy.level2_sad_happy:PersistentLevel.level2_sad_happy' with GeneratedClass '/Game/Levels/level2_sad_happy.level2_sad_happy_C' with ClassGeneratedBy '/Game/Levels/level2_sad_happy.level2_sad_happy:PersistentLevel.level2_sad_happy'
+[2018.10.29-00.12.19:900][448]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.29-00.12.52:710][ 27]LogSlate: Window 'Message Log' being destroyed
+[2018.10.29-00.12.52:712][ 27]LogSlate: Window 'Message Log' being destroyed
+[2018.10.29-00.13.09:977][ 34]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.29-00.13.14:378][305]LogSlate: Window 'BP_NPC_happygirl' being destroyed
+[2018.10.29-00.13.14:398][305]LogSlate: Window 'BP_NPC_happygirl' being destroyed
+[2018.10.29-00.13.15:370][352]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.29-00.13.56:763][676]LogSlate: Window 'Bp_MasterNPC' being destroyed
+[2018.10.29-00.13.56:783][676]LogSlate: Window 'Bp_MasterNPC' being destroyed
+[2018.10.29-00.13.57:977][736]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.29-00.14.21:151][  9]BlueprintLog: New page: Compile BP_NPC_happygirl
+[2018.10.29-00.14.21:177][  9]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d0dbc60600, Size=464
+[2018.10.29-00.14.21:177][  9]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d09a18fac0, Size=432
+[2018.10.29-00.14.21:177][  9]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d0e85f0e00, Size=464, BP_NPC_happygirl_C_91 Function /Engine/Transient.REINST_BP_NPC_happygirl_C_114:ExecuteUbergraph_BP_NPC_happygirl
+[2018.10.29-00.14.21:177][  9]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d118f86b00, Size=432, BP_NPC_happygirl_C_91 Function /Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC_C:ExecuteUbergraph_Bp_MasterNPC
+[2018.10.29-00.14.21:183][  9]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d0b1a4b400, Size=464, Default__BP_NPC_happygirl_C Function /Game/DialogueSystem/Blueprints/AI/BP_NPC_happygirl.BP_NPC_happygirl_C:ExecuteUbergraph_BP_NPC_happygirl
+[2018.10.29-00.14.21:183][  9]LogUObjectGlobals: Created PersistentFrame Addr=0x000001d118f84640, Size=432, Default__BP_NPC_happygirl_C Function /Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC_C:ExecuteUbergraph_Bp_MasterNPC
+[2018.10.29-00.14.22:400][ 35]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.29-00.14.22:482][ 35]LogSavePackage: Save=52.04ms
+[2018.10.29-00.14.22:482][ 35]LogSavePackage: Moving '../../../../../../Work/light_dark_experiment/Dialogue_basedgame/Saved/BP_NPC_happygirlEB015B8243B702E618A3A09C1130DFF5.tmp' to '../../../../../../Work/light_dark_experiment/Dialogue_basedgame/Content/DialogueSystem/Blueprints/AI/BP_NPC_happygirl.uasset'
+[2018.10.29-00.14.22:484][ 35]LogSavePackage: Display: Finished SavePackage ../../../../../../Work/light_dark_experiment/Dialogue_basedgame/Content/DialogueSystem/Blueprints/AI/BP_NPC_happygirl.uasset
+[2018.10.29-00.14.23:128][ 74]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.29-00.14.23:223][ 80]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.29-00.14.23:252][ 80]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/level2_sad_happy.level2_sad_happy:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/level2_sad_happy.level2_sad_happy:PersistentLevel.level2_sad_happy' with GeneratedClass '/Game/Levels/level2_sad_happy.level2_sad_happy_C' with ClassGeneratedBy '/Game/Levels/level2_sad_happy.level2_sad_happy:PersistentLevel.level2_sad_happy'
+[2018.10.29-00.14.23:253][ 80]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.29-00.14.23:253][ 80]PIE: New page: PIE session: level2_sad_happy (29/10/2018, 00:14:23)
+[2018.10.29-00.14.23:253][ 80]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_level2_sad_happy
+[2018.10.29-00.14.23:282][ 80]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029148s)
+[2018.10.29-00.14.23:283][ 80]LogAIModule: Creating AISystem for world level2_sad_happy
+[2018.10.29-00.14.23:283][ 80]LogPlayLevel: PIE: World Init took: (0.001546s)
+[2018.10.29-00.14.23:283][ 80]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/level2_sad_happy.level2_sad_happy to /Game/Levels/UEDPIE_0_level2_sad_happy.level2_sad_happy (0.030984s)
+[2018.10.29-00.14.23:348][ 80]LogInit: XAudio2 using 'LG FULL HD (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.29-00.14.23:357][ 80]LogInit: FAudioDevice initialized.
+[2018.10.29-00.14.23:400][ 80]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.10.29-00.14.23:406][ 80]LogWorld: Bringing World /Game/Levels/UEDPIE_0_level2_sad_happy.level2_sad_happy up for play (max tick rate 0) at 2018.10.29-00.14.23
+[2018.10.29-00.14.23:407][ 80]LogWorld: Bringing up level for play took: 0.006062
+[2018.10.29-00.14.23:407][ 80]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.10.29-00.14.23:408][ 80]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.10.29-00.14.23:408][ 80]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.10.29-00.14.23:412][ 80]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'WalkingPath' of length 0 in '/Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC_C'!
+[2018.10.29-00.14.23:412][ 80]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'WalkingPath' of length 0 in '/Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC_C'!
+[2018.10.29-00.14.23:412][ 80]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.10.29-00.14.23:412][ 80]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_level2_sad_happy -0,77
+[2018.10.29-00.14.23:412][ 80]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/level2_sad_happy.level2_sad_happy:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/level2_sad_happy.level2_sad_happy:PersistentLevel.level2_sad_happy' with GeneratedClass '/Game/Levels/level2_sad_happy.level2_sad_happy_C' with ClassGeneratedBy '/Game/Levels/level2_sad_happy.level2_sad_happy:PersistentLevel.level2_sad_happy'
+[2018.10.29-00.14.24:716][149]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/level2_sad_happy.level2_sad_happy:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/level2_sad_happy.level2_sad_happy:PersistentLevel.level2_sad_happy' with GeneratedClass '/Game/Levels/level2_sad_happy.level2_sad_happy_C' with ClassGeneratedBy '/Game/Levels/level2_sad_happy.level2_sad_happy:PersistentLevel.level2_sad_happy'
+[2018.10.29-00.14.24:778][149]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/level2_sad_happy.level2_sad_happy:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/level2_sad_happy.level2_sad_happy:PersistentLevel.level2_sad_happy' with GeneratedClass '/Game/Levels/level2_sad_happy.level2_sad_happy_C' with ClassGeneratedBy '/Game/Levels/level2_sad_happy.level2_sad_happy:PersistentLevel.level2_sad_happy'
+[2018.10.29-00.14.25:485][181]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.29-00.14.25:537][184]LogSlate: Window 'BP_NPC_happygirl' being destroyed
+[2018.10.29-00.14.25:558][184]LogSlate: Window 'BP_NPC_happygirl' being destroyed
+[2018.10.29-00.14.26:397][235]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.29-00.14.26:456][239]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.29-00.14.26:469][239]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/level2_sad_happy.level2_sad_happy:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/level2_sad_happy.level2_sad_happy:PersistentLevel.level2_sad_happy' with GeneratedClass '/Game/Levels/level2_sad_happy.level2_sad_happy_C' with ClassGeneratedBy '/Game/Levels/level2_sad_happy.level2_sad_happy:PersistentLevel.level2_sad_happy'
+[2018.10.29-00.14.26:469][239]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.29-00.14.26:469][239]PIE: New page: PIE session: level2_sad_happy (29/10/2018, 00:14:26)
+[2018.10.29-00.14.26:469][239]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_level2_sad_happy
+[2018.10.29-00.14.26:495][239]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025993s)
+[2018.10.29-00.14.26:497][239]LogAIModule: Creating AISystem for world level2_sad_happy
+[2018.10.29-00.14.26:497][239]LogPlayLevel: PIE: World Init took: (0.001419s)
+[2018.10.29-00.14.26:497][239]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/level2_sad_happy.level2_sad_happy to /Game/Levels/UEDPIE_0_level2_sad_happy.level2_sad_happy (0.027650s)
+[2018.10.29-00.14.26:559][239]LogInit: XAudio2 using 'LG FULL HD (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.29-00.14.26:568][239]LogInit: FAudioDevice initialized.
+[2018.10.29-00.14.26:607][239]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.10.29-00.14.26:612][239]LogWorld: Bringing World /Game/Levels/UEDPIE_0_level2_sad_happy.level2_sad_happy up for play (max tick rate 0) at 2018.10.29-00.14.26
+[2018.10.29-00.14.26:613][239]LogWorld: Bringing up level for play took: 0.005773
+[2018.10.29-00.14.26:614][239]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.10.29-00.14.26:614][239]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.10.29-00.14.26:614][239]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.10.29-00.14.26:618][239]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'WalkingPath' of length 0 in '/Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC_C'!
+[2018.10.29-00.14.26:618][239]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'WalkingPath' of length 0 in '/Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC_C'!
+[2018.10.29-00.14.26:618][239]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.10.29-00.14.26:618][239]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_level2_sad_happy 0,436
+[2018.10.29-00.14.26:618][239]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/level2_sad_happy.level2_sad_happy:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/level2_sad_happy.level2_sad_happy:PersistentLevel.level2_sad_happy' with GeneratedClass '/Game/Levels/level2_sad_happy.level2_sad_happy_C' with ClassGeneratedBy '/Game/Levels/level2_sad_happy.level2_sad_happy:PersistentLevel.level2_sad_happy'
+[2018.10.29-00.14.38:565][132]LogBlueprintUserMessages: [BP_NPC_happygirl_682] You get point A
+[2018.10.29-00.14.52:860][199]LogBlueprintUserMessages: [BP_NPC_happygirl_682] You get point A
+[2018.10.29-00.15.09:044][829]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/level2_sad_happy.level2_sad_happy:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/level2_sad_happy.level2_sad_happy:PersistentLevel.level2_sad_happy' with GeneratedClass '/Game/Levels/level2_sad_happy.level2_sad_happy_C' with ClassGeneratedBy '/Game/Levels/level2_sad_happy.level2_sad_happy:PersistentLevel.level2_sad_happy'
+[2018.10.29-00.15.09:087][829]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/level2_sad_happy.level2_sad_happy:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/level2_sad_happy.level2_sad_happy:PersistentLevel.level2_sad_happy' with GeneratedClass '/Game/Levels/level2_sad_happy.level2_sad_happy_C' with ClassGeneratedBy '/Game/Levels/level2_sad_happy.level2_sad_happy:PersistentLevel.level2_sad_happy'
+[2018.10.29-00.15.10:563][929]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.29-00.15.10:619][933]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.29-00.15.10:628][933]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/level2_sad_happy.level2_sad_happy:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/level2_sad_happy.level2_sad_happy:PersistentLevel.level2_sad_happy' with GeneratedClass '/Game/Levels/level2_sad_happy.level2_sad_happy_C' with ClassGeneratedBy '/Game/Levels/level2_sad_happy.level2_sad_happy:PersistentLevel.level2_sad_happy'
+[2018.10.29-00.15.10:629][933]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.29-00.15.10:629][933]PIE: New page: PIE session: level2_sad_happy (29/10/2018, 00:15:10)
+[2018.10.29-00.15.10:629][933]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_level2_sad_happy
+[2018.10.29-00.15.10:656][933]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027512s)
+[2018.10.29-00.15.10:658][933]LogAIModule: Creating AISystem for world level2_sad_happy
+[2018.10.29-00.15.10:658][933]LogPlayLevel: PIE: World Init took: (0.001674s)
+[2018.10.29-00.15.10:658][933]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/level2_sad_happy.level2_sad_happy to /Game/Levels/UEDPIE_0_level2_sad_happy.level2_sad_happy (0.029489s)
+[2018.10.29-00.15.10:721][933]LogInit: XAudio2 using 'LG FULL HD (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.29-00.15.10:730][933]LogInit: FAudioDevice initialized.
+[2018.10.29-00.15.10:768][933]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.10.29-00.15.10:774][933]LogWorld: Bringing World /Game/Levels/UEDPIE_0_level2_sad_happy.level2_sad_happy up for play (max tick rate 0) at 2018.10.29-00.15.10
+[2018.10.29-00.15.10:775][933]LogWorld: Bringing up level for play took: 0.006010
+[2018.10.29-00.15.10:776][933]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.10.29-00.15.10:776][933]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.10.29-00.15.10:776][933]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.10.29-00.15.10:780][933]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'WalkingPath' of length 0 in '/Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC_C'!
+[2018.10.29-00.15.10:780][933]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'WalkingPath' of length 0 in '/Game/DialogueSystem/Blueprints/AI/Bp_MasterNPC.Bp_MasterNPC_C'!
+[2018.10.29-00.15.10:781][933]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.10.29-00.15.10:781][933]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_level2_sad_happy 0,599
+[2018.10.29-00.15.10:781][933]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/level2_sad_happy.level2_sad_happy:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/level2_sad_happy.level2_sad_happy:PersistentLevel.level2_sad_happy' with GeneratedClass '/Game/Levels/level2_sad_happy.level2_sad_happy_C' with ClassGeneratedBy '/Game/Levels/level2_sad_happy.level2_sad_happy:PersistentLevel.level2_sad_happy'
+[2018.10.29-00.15.25:936][ 61]LogBlueprintUserMessages: [BP_NPC_happygirl_682] You get point B
+[2018.10.29-00.15.32:512][551]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/level2_sad_happy.level2_sad_happy:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/level2_sad_happy.level2_sad_happy:PersistentLevel.level2_sad_happy' with GeneratedClass '/Game/Levels/level2_sad_happy.level2_sad_happy_C' with ClassGeneratedBy '/Game/Levels/level2_sad_happy.level2_sad_happy:PersistentLevel.level2_sad_happy'
+[2018.10.29-00.15.32:554][551]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/level2_sad_happy.level2_sad_happy:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/level2_sad_happy.level2_sad_happy:PersistentLevel.level2_sad_happy' with GeneratedClass '/Game/Levels/level2_sad_happy.level2_sad_happy_C' with ClassGeneratedBy '/Game/Levels/level2_sad_happy.level2_sad_happy:PersistentLevel.level2_sad_happy'
+[2018.10.29-00.15.34:511][689]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.29-00.15.36:497][832]SourceControl: fatal: E:/Jogos/Epic Games/UE_4.19/Engine/Content: 'E:/Jogos/Epic Games/UE_4.19/Engine/Content' is outside repository
+[2018.10.29-00.15.36:600][832]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.29-00.15.49:326][832]LogSlate: Window 'Submit Files' being destroyed
+[2018.10.29-00.15.49:337][832]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.29-00.15.49:395][832]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.29-00.15.49:796][832]LogSourceControl: commit successful: [master 5f4e441] Fixed Point Atribution
+[2018.10.29-00.15.49:852][832]SourceControl: [master 5f4e441] Fixed Point Atribution
+[2018.10.29-00.15.49:852][832]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2018.10.29-00.15.49:852][832]SourceControl:  rewrite Dialogue_basedgame/Content/DialogueSystem/Blueprints/AI/BP_NPC_happygirl.uasset (90%)
+[2018.10.29-00.15.49:860][832]SourceControl: Commited [master 5f4e441] Fixed Point Atribution.
+[2018.10.29-00.15.51:964][939]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.29-00.16.07:157][700]LogSlate: Window 'Bp_MasterNPC' being destroyed
+[2018.10.29-00.16.07:162][700]LogSlate: Window 'Bp_MasterNPC' being destroyed
+[2018.10.29-00.16.08:378][755]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.29-00.16.26:480][660]LogSlate: Window 'BP_NPC_happygirl' being destroyed
+[2018.10.29-00.16.26:485][660]LogSlate: Window 'BP_NPC_happygirl' being destroyed
+[2018.10.29-00.16.27:301][715]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.29-00.16.27:449][720]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.29-00.16.27:762][720]LogSavePackage: Save=209.76ms
+[2018.10.29-00.16.27:762][720]LogSavePackage: Moving '../../../../../../Work/light_dark_experiment/Dialogue_basedgame/Saved/level2_sad_happyBE30E3B3459DAAB96F6EDE975FD56254.tmp' to '../../../../../../Work/light_dark_experiment/Dialogue_basedgame/Content/Levels/level2_sad_happy.umap'
+[2018.10.29-00.16.27:764][720]LogSavePackage: Display: Finished SavePackage ../../../../../../Work/light_dark_experiment/Dialogue_basedgame/Content/Levels/level2_sad_happy.umap
+[2018.10.29-00.16.27:837][720]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/level2_sad_happy_BuiltData" FILE="../../../../../../Work/light_dark_experiment/Dialogue_basedgame/Content/Levels/level2_sad_happy_BuiltData.uasset" SILENT=true
+[2018.10.29-00.16.27:888][720]LogSavePackage: Save=38.98ms
+[2018.10.29-00.16.27:888][720]LogSavePackage: Moving '../../../../../../Work/light_dark_experiment/Dialogue_basedgame/Saved/level2_sad_happy_BuiltData01C9612743A738F6611B959E90E03B94.tmp' to '../../../../../../Work/light_dark_experiment/Dialogue_basedgame/Content/Levels/level2_sad_happy_BuiltData.uasset'
+[2018.10.29-00.16.27:889][720]LogSavePackage: Display: Finished SavePackage ../../../../../../Work/light_dark_experiment/Dialogue_basedgame/Content/Levels/level2_sad_happy_BuiltData.uasset
+[2018.10.29-00.16.29:891][863]SourceControl: fatal: E:/Jogos/Epic Games/UE_4.19/Engine/Content: 'E:/Jogos/Epic Games/UE_4.19/Engine/Content' is outside repository
+[2018.10.29-00.16.32:794][863]LogSlate: Window 'Submit Files' being destroyed
+[2018.10.29-00.16.40:808][444]MapCheck: New page: Map Check
+[2018.10.29-00.16.40:852][444]Cmd: MAP REBUILD ALLVISIBLE
+[2018.10.29-00.16.40:852][444]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.10.29-00.16.41:125][444]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d11c9ea0b0, Size=4
+[2018.10.29-00.16.41:125][444]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d0e85f0e00, Size=464
+[2018.10.29-00.16.41:125][444]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d118f86b00, Size=432
+[2018.10.29-00.16.41:125][444]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d117fd1980, Size=432
+[2018.10.29-00.16.41:125][444]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d0b0057800, Size=496
+[2018.10.29-00.16.41:125][444]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d117c58d40, Size=432
+[2018.10.29-00.16.41:125][444]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d11c9ea4f0, Size=4
+[2018.10.29-00.16.41:125][444]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d0dbc62e00, Size=496
+[2018.10.29-00.16.41:125][444]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001d0b9121600, Size=432
+[2018.10.29-00.16.41:176][444]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.10.29-00.16.41:190][444]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.29-00.16.41:190][444]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_1, compiling. 
+[2018.10.29-00.16.41:196][444]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.29-00.16.41:196][444]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2018.10.29-00.16.41:202][444]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Materrial_black, compiling. 
+[2018.10.29-00.16.41:216][444]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.29-00.16.41:216][444]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.29-00.16.41:216][444]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultTextMaterialOpaque, compiling. 
+[2018.10.29-00.16.41:283][444]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_Body, compiling. 
+[2018.10.29-00.16.41:297][444]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_ChestLogo, compiling. 
+[2018.10.29-00.16.41:306][444]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2018.10.29-00.16.41:313][444]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy RampMaterial, compiling. 
+[2018.10.29-00.16.41:319][444]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_Black, compiling. 
+[2018.10.29-00.16.42:394][444]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.29-00.16.42:394][444]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.29-00.16.42:394][444]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.29-00.16.42:394][444]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.29-00.16.42:394][444]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.29-00.16.42:394][444]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.29-00.16.42:394][444]TextureStreamingBuild: Display: Compiling optional shaders took 1.232 seconds.
+[2018.10.29-00.16.42:571][444]LogLevel: Display: Export Material TexCoord Scales took 0.177 seconds.
+[2018.10.29-00.16.42:595][444]TextureStreamingBuild: Display: Build Texture Streaming took 0.023 seconds.
+[2018.10.29-00.16.42:673][444]LightingResults: New page: Lighting Build - 29/10/2018, 00:16:42
+[2018.10.29-00.16.43:002][444]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.10.29-00.16.43:304][444]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.10.29-00.16.43:416][444]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.10.29-00.16.45:692][444]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.10.29-00.16.45:692][444]LogSwarmInterface: [TryOpenConnection] Local Process ID is 10604
+[2018.10.29-00.16.52:437][444]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.10.29-00.16.52:437][444]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.10.29-00.16.52:437][444]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.10.29-00.16.52:437][444]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.10.29-00.16.52:437][444]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.10.29-00.16.52:828][444]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.10.29-00.16.52:828][444]MapCheck: New page: level2_sad_happy - 29/10/2018, 00:16:52
+[2018.10.29-00.16.52:926][444]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 97,395ms to complete.
+[2018.10.29-00.16.52:950][444]LogEditorBuildUtils: Build time 0:12
+[2018.10.29-00.16.52:983][444]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_1, compiling. 
+[2018.10.29-00.16.53:044][444]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.29-00.16.53:062][445]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Materrial_black, compiling. 
+[2018.10.29-00.16.53:068][445]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.29-00.16.53:068][445]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Materrial_black, compiling. 
+[2018.10.29-00.16.53:082][445]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.29-00.16.56:178][455]Job is a success!
+[2018.10.29-00.16.56:624][456]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.053s
+[2018.10.29-00.16.56:624][456]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.10.29-00.16.56:624][456]LogVolumetricLightmapImport:      BrickData 170x5x5 = 0.2Mb
+[2018.10.29-00.16.56:624][456]LogVolumetricLightmapImport:      Bricks at Level
+[2018.10.29-00.16.56:624][456]LogVolumetricLightmapImport:          0: 2.9% covering 100.0% of volume
+[2018.10.29-00.16.56:624][456]LogVolumetricLightmapImport:          1: 11.8% covering 6.3% of volume
+[2018.10.29-00.16.56:624][456]LogVolumetricLightmapImport:          2: 85.3% covering 0.7% of volume
+[2018.10.29-00.16.56:689][456]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 64X32)
+[2018.10.29-00.16.56:689][456]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 64X64)
+[2018.10.29-00.16.56:689][456]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 64X32)
+[2018.10.29-00.16.56:689][456]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 64X64)
+[2018.10.29-00.16.56:689][456]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2018.10.29-00.16.56:689][456]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2018.10.29-00.16.56:689][456]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2018.10.29-00.16.56:689][456]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 64X32)
+[2018.10.29-00.16.56:988][456]Lightmass on PLATYPC: 1.79 sec total, 186 ms importing, 16 ms setup, 391 ms photons, 829 ms processing, 0 ms extra exporting [3/3 mappings]. Threads: 5.64 sec total, 269 ms processing.
+[2018.10.29-00.16.57:073][456]LogStaticLightingSystem: Illumination: 14.0 sec (16 ms encoding lightmaps, 3 ms encoding shadowmaps)
+[2018.10.29-00.16.57:074][456]LogStaticLightingSystem: Lightmap texture memory:  0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 4 textures
+[2018.10.29-00.16.57:074][456]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.10.29-00.16.57:417][456]DumpUnbuiltLightIteractions
+[2018.10.29-00.16.57:417][456]Lights with unbuilt interactions: 0
+[2018.10.29-00.16.57:417][456]
+[2018.10.29-00.16.57:417][456]Primitives with unbuilt interactions: 0
+[2018.10.29-00.16.57:542][457]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.10.29-00.16.57:543][457]MapCheck: New page: level2_sad_happy - 29/10/2018, 00:16:57
+[2018.10.29-00.16.57:609][457]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 66,208ms to complete.
+[2018.10.29-00.19.38:220][405]SourceControl: fatal: E:/Jogos/Epic Games/UE_4.19/Engine/Content: 'E:/Jogos/Epic Games/UE_4.19/Engine/Content' is outside repository
+[2018.10.29-00.19.40:136][405]LogSlate: Window 'Save Content' being destroyed
+[2018.10.29-00.19.40:556][405]LogSavePackage: Save=211.76ms
+[2018.10.29-00.19.40:556][405]LogSavePackage: Moving '../../../../../../Work/light_dark_experiment/Dialogue_basedgame/Saved/level2_sad_happy3CD829BC4E4DD66A33DD308BBA31A21A.tmp' to '../../../../../../Work/light_dark_experiment/Dialogue_basedgame/Content/Levels/level2_sad_happy.umap'
+[2018.10.29-00.19.40:559][405]LogSavePackage: Display: Finished SavePackage ../../../../../../Work/light_dark_experiment/Dialogue_basedgame/Content/Levels/level2_sad_happy.umap
+[2018.10.29-00.19.40:570][405]LogFileHelpers: Saving map 'level2_sad_happy' took 0.356
+[2018.10.29-00.19.40:572][405]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/level2_sad_happy_BuiltData" FILE="../../../../../../Work/light_dark_experiment/Dialogue_basedgame/Content/Levels/level2_sad_happy_BuiltData.uasset" SILENT=true
+[2018.10.29-00.19.40:582][405]LogSavePackage: Save=9.34ms
+[2018.10.29-00.19.40:583][405]LogSavePackage: Moving '../../../../../../Work/light_dark_experiment/Dialogue_basedgame/Saved/level2_sad_happy_BuiltData4D7FA24A4D94AB46A986248BC4562907.tmp' to '../../../../../../Work/light_dark_experiment/Dialogue_basedgame/Content/Levels/level2_sad_happy_BuiltData.uasset'
+[2018.10.29-00.19.40:584][405]LogSavePackage: Display: Finished SavePackage ../../../../../../Work/light_dark_experiment/Dialogue_basedgame/Content/Levels/level2_sad_happy_BuiltData.uasset
+[2018.10.29-00.19.47:489][405]LogSlate: Window 'Submit Files' being destroyed
+[2018.10.29-00.19.49:243][405]LogSourceControl: commit successful: [master a7ccb65] Fixed Lightning
+[2018.10.29-00.19.49:287][405]SourceControl: [master a7ccb65] Fixed Lightning
+[2018.10.29-00.19.49:287][405]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
+[2018.10.29-00.19.49:295][405]SourceControl: Commited [master a7ccb65] Fixed Lightning.
